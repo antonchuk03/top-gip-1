@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Проекти - Top Gip</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/projects.css" />
+
+    <link rel="icon" type="image/png" href="./assets/images/icons/favicon.png" />
+
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- AOS CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="header-placeholder"></div>
+
+    <main>
+      <section class="section">
+        <h2 data-aos="fade-up">Наші проекти</h2>
+
+        <div class="projects-filter" data-aos="fade-up" data-aos-delay="100">
+          <button class="filter-btn active" data-filter="all">Всі</button>
+          <button class="filter-btn" data-filter="residential_complexes">
+            Житлові комплекси
+          </button>
+          <button class="filter-btn" data-filter="public_buildings">
+            Громадські будівлі
+          </button>
+          <button class="filter-btn" data-filter="urban_planning">
+            Містобудування
+          </button>
+          <button class="filter-btn" data-filter="private_housing">
+            Приватне житло
+          </button>
+          <button class="filter-btn" data-filter="industrial">
+            Промислове будівництво
+          </button>
+          <button class="filter-btn" data-filter="competitions">
+            Конкурси
+          </button>
+        </div>
+
+        <div class="projects-page-grid" data-aos="fade-up" data-aos-delay="200">
+          <!-- Projects will be loaded here by JavaScript -->
+        </div>
+      </section>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <!-- AOS JS -->
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1000,
+        once: true,
+      });
+    </script>
+
+    <script src="./js/load-components.js"></script>
+    <script src="./js/scrollToTopbtn.js"></script>
+    <script src="./js/projects.js"></script>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

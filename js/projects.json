@@ -1,0 +1,1117 @@
+[
+  {
+    "id": 1,
+    "slug": "zhk-skywalker",
+    "title": "ЖК Skywalker",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/1-skywalker/cover.png",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/1-skywalker/1.png",
+      "./assets/images/projects/residental/1-skywalker/2.png",
+      "./assets/images/projects/residental/1-skywalker/3.png",
+      "./assets/images/projects/residental/1-skywalker/4.png",
+      "./assets/images/projects/residental/1-skywalker/5.png"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "klevan-reb-center",
+    "title": "Клевань Реб центр",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./diff/question-mark.png",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": ["./diff/question-mark.png"]
+  },
+
+  {
+    "id": 3,
+    "slug": "zhk-skywalker",
+    "title": "ЖК Skywalker",
+    "category": "urban_planning",
+    "categoryName": "Містобудування",
+    "image": "./assets/images/projects/urban-planning/1-skywalker/cover.jpg",
+    "description": "Проект реконструкції та модернізації міського архіву. Головною метою було створення сучасного простору для зберігання документів з дотриманням усіх норм безпеки та клімат-контролю, а також організація зручної зони для відвідувачів.",
+    "details": [
+      "Площа: 2 400 м²",
+      "Рік реалізації: 2022",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./diff/public-buildings.jpg",
+      "./diff/industrial.jpg",
+      "./diff/competitions.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "villa-denis",
+    "title": "Villa Denis",
+    "category": "private_housing",
+    "categoryName": "Приватне житло",
+    "image": "./assets/images/projects/private-housing/1-villa-denis/cover.jpg",
+    "description": "Ексклюзивний проект приватної вілли, розроблений з урахуванням індивідуальних побажань замовника. Архітектура будинку гармонійно вписується в ландшафт, а використання натуральних матеріалів підкреслює екологічність та статус об'єкта.",
+    "details": [
+      "Площа: 350 м²",
+      "Рік реалізації: 2024",
+      "Локація: передмістя Києва",
+      "Статус: В процесі"
+    ],
+    "gallery": [
+      "./assets/images/projects/private-housing/1-villa-denis/1.jpg",
+      "./assets/images/projects/private-housing/1-villa-denis/2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "lohistychnyi-sklad",
+    "title": "Логістичний склад",
+    "category": "industrial",
+    "categoryName": "Промислове будівництво",
+    "image": "./assets/images/projects/industrial/1-log-sklad/cover.jpg",
+    "description": "Проект сучасного логістичного комплексу класу А. Передбачено автоматизовані системи зберігання, зручні під'їзні шляхи для вантажного транспорту та адміністративно-побутовий корпус для персоналу.",
+    "details": [
+      "Площа: 8 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: Львівська область",
+      "Статус: Будівництво"
+    ],
+    "gallery": [
+      "./assets/images/projects/industrial/1-log-sklad/1.jpg",
+      "./assets/images/projects/industrial/1-log-sklad/2.jpg",
+      "./assets/images/projects/industrial/1-log-sklad/3.jpg",
+      "./assets/images/projects/industrial/1-log-sklad/4.jpg",
+      "./assets/images/projects/industrial/1-log-sklad/5.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "park-u-m-oleksandriia",
+    "title": "Парк у м. Олександрія",
+    "category": "competitions",
+    "categoryName": "Конкурси",
+    "image": "./assets/images/projects/competitions/1-park-olexandriya/cover.jpg",
+    "description": "Конкурсний проект реконструкції міського парку. Концепція передбачає відновлення історичних алей, створення нових зон відпочинку, спортивних майданчиків та сучасного освітлення.",
+    "details": [
+      "Площа: 12 га",
+      "Рік участі: 2024",
+      "Локація: м. Олександрія",
+      "Статус: Концепція"
+    ],
+    "gallery": [
+      "./assets/images/projects/competitions/1-park-olexandriya/1.jpg",
+      "./assets/images/projects/competitions/1-park-olexandriya/2.jpg",
+      "./assets/images/projects/competitions/1-park-olexandriya/3.jpg",
+      "./assets/images/projects/competitions/1-park-olexandriya/4.jpg",
+      "./assets/images/projects/competitions/1-park-olexandriya/5.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "central-city-apartments",
+    "title": "Central City Apartments",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/2-central-city-apartments/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/2-central-city-apartments/1.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/2.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/3.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/4.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/5.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "school-sport-happystreet",
+    "title": "Школа + спорт Щасливе",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./diff/question-mark.png",
+    "description": "Затишний котедж, інтегрований у лісовий ландшафт. Панорамні вікна забезпечують максимальне єднання з природою, а використання дерева в оздобленні фасадів підкреслює еко-стиль.",
+    "details": [
+      "Площа: 280 м²",
+      "Рік реалізації: 2023",
+      "Локація: Карпати",
+      "Статус: Реалізовано"
+    ],
+    "gallery": ["./diff/question-mark.png"]
+  },
+  {
+    "id": 9,
+    "slug": "supernova",
+    "title": "Supernova",
+    "category": "urban_planning",
+    "categoryName": "Містобудування",
+    "image": "./assets/images/projects/urban-planning/2-supernova/cover.jpg",
+    "description": "Сучасний офісний центр з розвиненою інфраструктурою. Проект включає конференц-зали, коворкінг-зони, кафе та панорамну терасу на даху.",
+    "details": [
+      "Площа: 18 000 м²",
+      "Рік реалізації: 2024",
+      "Локація: м. Київ",
+      "Статус: Будівництво"
+    ],
+    "gallery": [
+      "./assets/images/projects/urban-planning/2-supernova/1.jpg",
+      "./assets/images/projects/urban-planning/2-supernova/2.jpg",
+      "./assets/images/projects/urban-planning/2-supernova/3.jpg",
+      "./assets/images/projects/urban-planning/2-supernova/4.jpg",
+      "./assets/images/projects/urban-planning/2-supernova/5.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "lisnuki",
+    "title": "Lisnuki",
+    "category": "private_housing",
+    "categoryName": "Приватне житло",
+    "image": "./assets/images/projects/private-housing/2-lisnuki/cover.jpg",
+    "description": "Масштабний містобудівний проект розвитку північної частини міста. Передбачено будівництво житла, шкіл, лікарень та транспортних розв'язок.",
+    "details": [
+      "Площа території: 25 га",
+      "Рік розробки: 2022",
+      "Локація: м. Рівне",
+      "Статус: Затверджено"
+    ],
+    "gallery": [
+      "./assets/images/projects/private-housing/2-lisnuki/1.jpg",
+      "./assets/images/projects/private-housing/2-lisnuki/2.jpg",
+      "./assets/images/projects/private-housing/2-lisnuki/3.jpg",
+      "./assets/images/projects/private-housing/2-lisnuki/4.jpg",
+      "./assets/images/projects/private-housing/2-lisnuki/5.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "ahro-express-service-u-m-maryaniv",
+    "title": "\"Агро-Експрес-Сервіс\" у м. Мар'янів",
+    "category": "industrial",
+    "categoryName": "Промислове будівництво",
+    "image": "./assets/images/projects/industrial/2-agro-express-service/cover.png",
+    "description": "Проект реконструкції існуючого виробничого цеху під завод металоконструкцій. Впроваджено енергоефективні технології та сучасні системи вентиляції.",
+    "details": [
+      "Площа: 5 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Мар'янів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/industrial/2-agro-express-service/cover.png"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "360",
+    "title": "360",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/3-360/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/3-360/1.jpg",
+      "./assets/images/projects/residental/3-360/2.jpg",
+      "./assets/images/projects/residental/3-360/3.jpg",
+      "./assets/images/projects/residental/3-360/4.jpg",
+      "./assets/images/projects/residental/3-360/5.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "dubno-reb-center",
+    "title": "Дубно Реб центр",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./diff/question-mark.png",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": ["./diff/question-mark.png"]
+  },
+
+  {
+    "id": 14,
+    "slug": "central-city-apartments2",
+    "title": "Central City Apartments",
+    "category": "urban_planning",
+    "categoryName": "Містобудування",
+    "image": "./assets/images/projects/urban-planning/3-central-city-apartments/cover.jpg",
+    "description": "Проект реконструкції та модернізації міського архіву. Головною метою було створення сучасного простору для зберігання документів з дотриманням усіх норм безпеки та клімат-контролю, а також організація зручної зони для відвідувачів.",
+    "details": [
+      "Площа: 2 400 м²",
+      "Рік реалізації: 2022",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/urban-planning/3-central-city-apartments/1.jpg",
+      "./assets/images/projects/urban-planning/3-central-city-apartments/2.jpg",
+      "./assets/images/projects/urban-planning/3-central-city-apartments/3.jpg",
+      "./assets/images/projects/urban-planning/3-central-city-apartments/4.jpg",
+      "./assets/images/projects/urban-planning/3-central-city-apartments/5.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "novostav",
+    "title": "Novostav",
+    "category": "private_housing",
+    "categoryName": "Приватне житло",
+    "image": "./assets/images/projects/private-housing/3-novostav/cover.jpg",
+    "description": "Ексклюзивний проект приватної вілли, розроблений з урахуванням індивідуальних побажань замовника. Архітектура будинку гармонійно вписується в ландшафт, а використання натуральних матеріалів підкреслює екологічність та статус об'єкта.",
+    "details": [
+      "Площа: 350 м²",
+      "Рік реалізації: 2024",
+      "Локація: передмістя Києва",
+      "Статус: В процесі"
+    ],
+    "gallery": [
+      "./assets/images/projects/private-housing/3-novostav/1.jpg",
+      "./assets/images/projects/private-housing/3-novostav/2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "surendzh",
+    "title": "Сурендж",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/4-surendzh/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/4-surendzh/1.jpg",
+      "./assets/images/projects/residental/4-surendzh/2.jpg",
+      "./assets/images/projects/residental/4-surendzh/3.jpg",
+      "./assets/images/projects/residental/4-surendzh/4.jpg",
+      "./assets/images/projects/residental/4-surendzh/5.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "office-happystreet",
+    "title": "Офіс Щасливе",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./diff/question-mark.png",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": ["./diff/question-mark.png"]
+  },
+
+  {
+    "id": 18,
+    "slug": "mvs",
+    "title": "База відпочинку МВС",
+    "category": "urban_planning",
+    "categoryName": "Містобудування",
+    "image": "./assets/images/projects/urban-planning/4-mvs/cover.jpg",
+    "description": "Проект реконструкції та модернізації міського архіву. Головною метою було створення сучасного простору для зберігання документів з дотриманням усіх норм безпеки та клімат-контролю, а також організація зручної зони для відвідувачів.",
+    "details": [
+      "Площа: 2 400 м²",
+      "Рік реалізації: 2022",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/urban-planning/4-mvs/1.jpg",
+      "./assets/images/projects/urban-planning/4-mvs/2.jpg",
+      "./assets/images/projects/urban-planning/4-mvs/3.jpg",
+      "./assets/images/projects/urban-planning/4-mvs/4.jpg",
+      "./assets/images/projects/urban-planning/4-mvs/5.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "villa-alexandriya",
+    "title": "Villa Alexandriya",
+    "category": "private_housing",
+    "categoryName": "Приватне житло",
+    "image": "./assets/images/projects/private-housing/4-villa-alexandriya/cover.jpg",
+    "description": "Ексклюзивний проект приватної вілли, розроблений з урахуванням індивідуальних побажань замовника. Архітектура будинку гармонійно вписується в ландшафт, а використання натуральних матеріалів підкреслює екологічність та статус об'єкта.",
+    "details": [
+      "Площа: 350 м²",
+      "Рік реалізації: 2024",
+      "Локація: передмістя Києва",
+      "Статус: В процесі"
+    ],
+    "gallery": [
+      "./assets/images/projects/private-housing/4-villa-alexandriya/1.png",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/2.png",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/3.png",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/4.png",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/5.png"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "bridge-tower",
+    "title": "Bridge Tower",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/5-bridge-tower/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/5-bridge-tower/1.jpg",
+      "./assets/images/projects/residental/5-bridge-tower/2.jpg",
+      "./assets/images/projects/residental/5-bridge-tower/3.jpg",
+      "./assets/images/projects/residental/5-bridge-tower/4.jpg",
+      "./assets/images/projects/residental/5-bridge-tower/5.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "rivne-obl-klin-likarnya",
+    "title": "Рівненська обласна клінічна лікарня",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/1.jpg",
+      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/2.jpg",
+      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/3.jpg",
+      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/4.jpg",
+      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/5.jpg"
+    ]
+  },
+
+  {
+    "id": 22,
+    "slug": "kikvidze",
+    "title": "Містобудування по вул.Кіквідзе",
+    "category": "urban_planning",
+    "categoryName": "Містобудування",
+    "image": "./assets/images/projects/urban-planning/5-kikvidze/cover.jpg",
+    "description": "Проект реконструкції та модернізації міського архіву. Головною метою було створення сучасного простору для зберігання документів з дотриманням усіх норм безпеки та клімат-контролю, а також організація зручної зони для відвідувачів.",
+    "details": [
+      "Площа: 2 400 м²",
+      "Рік реалізації: 2022",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/urban-planning/5-kikvidze/1.jpg",
+      "./assets/images/projects/urban-planning/5-kikvidze/2.jpg",
+      "./assets/images/projects/urban-planning/5-kikvidze/3.jpg",
+      "./assets/images/projects/urban-planning/5-kikvidze/4.jpg",
+      "./assets/images/projects/urban-planning/5-kikvidze/5.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "veresneve",
+    "title": "Veresneve",
+    "category": "private_housing",
+    "categoryName": "Приватне житло",
+    "image": "./assets/images/projects/private-housing/5-veresneve/cover.jpg",
+    "description": "Ексклюзивний проект приватної вілли, розроблений з урахуванням індивідуальних побажань замовника. Архітектура будинку гармонійно вписується в ландшафт, а використання натуральних матеріалів підкреслює екологічність та статус об'єкта.",
+    "details": [
+      "Площа: 350 м²",
+      "Рік реалізації: 2024",
+      "Локація: передмістя Києва",
+      "Статус: В процесі"
+    ],
+    "gallery": [
+      "./assets/images/projects/private-housing/5-veresneve/1.jpg",
+      "./assets/images/projects/private-housing/5-veresneve/2.jpg",
+      "./assets/images/projects/private-housing/5-veresneve/3.jpg",
+      "./assets/images/projects/private-housing/5-veresneve/4.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "galytskyi",
+    "title": "Галицький",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/6-galytskyi/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/6-galytskyi/1.jpg",
+      "./assets/images/projects/residental/6-galytskyi/2.jpg",
+      "./assets/images/projects/residental/6-galytskyi/3.jpg",
+      "./assets/images/projects/residental/6-galytskyi/4.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "basein",
+    "title": "Басейн СДЮСШОР",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/6-basein/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/6-basein/1.jpg",
+      "./assets/images/projects/public-buildings/6-basein/2.jpg",
+      "./assets/images/projects/public-buildings/6-basein/3.jpg",
+      "./assets/images/projects/public-buildings/6-basein/4.jpg",
+      "./assets/images/projects/public-buildings/6-basein/5.jpg"
+    ]
+  },
+
+  {
+    "id": 26,
+    "slug": "pliuty",
+    "title": "Котеджне містечко с. Плюти",
+    "category": "urban_planning",
+    "categoryName": "Містобудування",
+    "image": "./assets/images/projects/urban-planning/6-pliuty/cover.jpg",
+    "description": "Проект реконструкції та модернізації міського архіву. Головною метою було створення сучасного простору для зберігання документів з дотриманням усіх норм безпеки та клімат-контролю, а також організація зручної зони для відвідувачів.",
+    "details": [
+      "Площа: 2 400 м²",
+      "Рік реалізації: 2022",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/urban-planning/6-pliuty/1.jpg",
+      "./assets/images/projects/urban-planning/6-pliuty/2.jpg",
+      "./assets/images/projects/urban-planning/6-pliuty/3.jpg",
+      "./assets/images/projects/urban-planning/6-pliuty/4.jpg",
+      "./assets/images/projects/urban-planning/6-pliuty/5.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "beregnoy",
+    "title": "Beregnoy",
+    "category": "private_housing",
+    "categoryName": "Приватне житло",
+    "image": "./assets/images/projects/private-housing/6-beregnoy/cover.jpg",
+    "description": "Ексклюзивний проект приватної вілли, розроблений з урахуванням індивідуальних побажань замовника. Архітектура будинку гармонійно вписується в ландшафт, а використання натуральних матеріалів підкреслює екологічність та статус об'єкта.",
+    "details": [
+      "Площа: 350 м²",
+      "Рік реалізації: 2024",
+      "Локація: передмістя Києва",
+      "Статус: В процесі"
+    ],
+    "gallery": [
+      "./assets/images/projects/private-housing/6-beregnoy/1.jpg",
+      "./assets/images/projects/private-housing/6-beregnoy/2.jpg",
+      "./assets/images/projects/private-housing/6-beregnoy/3.jpg",
+      "./assets/images/projects/private-housing/6-beregnoy/4.jpg",
+      "./assets/images/projects/private-housing/6-beregnoy/5.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "luxury",
+    "title": "Luxury",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/7-luxury/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/7-luxury/1.jpg",
+      "./assets/images/projects/residental/7-luxury/2.jpg",
+      "./assets/images/projects/residental/7-luxury/3.jpg",
+      "./assets/images/projects/residental/7-luxury/4.jpg",
+      "./assets/images/projects/residental/7-luxury/5.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "skyliner",
+    "title": "Skyliner",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/7-skyliner/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/7-skyliner/1.jpg",
+      "./assets/images/projects/public-buildings/7-skyliner/2.jpg",
+      "./assets/images/projects/public-buildings/7-skyliner/3.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "prestige-apartments",
+    "title": "Prestige Apartments",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/8-prestige-apartments/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/8-prestige-apartments/1.jpg",
+      "./assets/images/projects/residental/8-prestige-apartments/2.jpg",
+      "./assets/images/projects/residental/8-prestige-apartments/3.jpg",
+      "./assets/images/projects/residental/8-prestige-apartments/4.jpg",
+      "./assets/images/projects/residental/8-prestige-apartments/5.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "center-bezpeky",
+    "title": "Центр безпеки громадян",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/8-center-bezpeky/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/8-center-bezpeky/1.jpg",
+      "./assets/images/projects/public-buildings/8-center-bezpeky/2.jpg",
+      "./assets/images/projects/public-buildings/8-center-bezpeky/3.jpg",
+      "./assets/images/projects/public-buildings/8-center-bezpeky/4.jpg",
+      "./assets/images/projects/public-buildings/8-center-bezpeky/5.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "samchuk",
+    "title": "Житлові будинки по вул. У. Самчука",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/9-samchuk/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/9-samchuk/1.jpg",
+      "./assets/images/projects/residental/9-samchuk/2.jpg",
+      "./assets/images/projects/residental/9-samchuk/3.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "office-stograd",
+    "title": "Офіс Cтоград",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/9-office-stograd/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/9-office-stograd/1.jpg",
+      "./assets/images/projects/public-buildings/9-office-stograd/2.jpg",
+      "./assets/images/projects/public-buildings/9-office-stograd/3.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "schevchenko",
+    "title": "Шевченка",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/10-schevchenko/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/10-schevchenko/1.jpg",
+      "./assets/images/projects/residental/10-schevchenko/2.jpg",
+      "./assets/images/projects/residental/10-schevchenko/3.jpg",
+      "./assets/images/projects/residental/10-schevchenko/4.jpg",
+      "./assets/images/projects/residental/10-schevchenko/5.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "office-center-beton",
+    "title": "Офіс центр \"Бетон\"",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/10-office-center-beton/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/10-office-center-beton/1.jpg",
+      "./assets/images/projects/public-buildings/10-office-center-beton/2.jpg",
+      "./assets/images/projects/public-buildings/10-office-center-beton/3.jpg",
+      "./assets/images/projects/public-buildings/10-office-center-beton/4.jpg",
+      "./assets/images/projects/public-buildings/10-office-center-beton/5.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "simeinyi",
+    "title": "Сімейний",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/11-simeinyi/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/11-simeinyi/1.jpg",
+      "./assets/images/projects/residental/11-simeinyi/2.jpg",
+      "./assets/images/projects/residental/11-simeinyi/3.jpg",
+      "./assets/images/projects/residental/11-simeinyi/4.jpg",
+      "./assets/images/projects/residental/11-simeinyi/5.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "archive-lviv",
+    "title": "Архів у м. Львів",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/11-archive-lviv/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/11-archive-lviv/1.jpg",
+      "./assets/images/projects/public-buildings/11-archive-lviv/2.jpg",
+      "./assets/images/projects/public-buildings/11-archive-lviv/3.jpg",
+      "./assets/images/projects/public-buildings/11-archive-lviv/4.jpg",
+      "./assets/images/projects/public-buildings/11-archive-lviv/5.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "rivnenska",
+    "title": "Рівненська",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/12-rivnenska/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/12-rivnenska/1.jpg",
+      "./assets/images/projects/residental/12-rivnenska/2.jpg",
+      "./assets/images/projects/residental/12-rivnenska/3.jpg",
+      "./assets/images/projects/residental/12-rivnenska/4.jpg",
+      "./assets/images/projects/residental/12-rivnenska/5.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "parking-renome",
+    "title": "Паркінг РЕНОМЕ",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/12-parking-renome/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/12-parking-renome/1.jpg",
+      "./assets/images/projects/public-buildings/12-parking-renome/2.jpg",
+      "./assets/images/projects/public-buildings/12-parking-renome/3.jpg",
+      "./assets/images/projects/public-buildings/12-parking-renome/4.jpg",
+      "./assets/images/projects/public-buildings/12-parking-renome/5.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "mlynivska",
+    "title": "Млинівська",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/13-mlynivska/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/13-mlynivska/1.jpg",
+      "./assets/images/projects/residental/13-mlynivska/2.jpg",
+      "./assets/images/projects/residental/13-mlynivska/3.jpg",
+      "./assets/images/projects/residental/13-mlynivska/4.jpg",
+      "./assets/images/projects/residental/13-mlynivska/5.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "office-kopernyk",
+    "title": "Офісний центр по вул. Коперника",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/13-office-kopernyk/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/13-office-kopernyk/1.jpg",
+      "./assets/images/projects/public-buildings/13-office-kopernyk/2.jpg",
+      "./assets/images/projects/public-buildings/13-office-kopernyk/3.jpg",
+      "./assets/images/projects/public-buildings/13-office-kopernyk/4.jpg",
+      "./assets/images/projects/public-buildings/13-office-kopernyk/5.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "supernova2",
+    "title": "Supernova",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/14-supernova/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/14-supernova/1.jpg",
+      "./assets/images/projects/residental/14-supernova/2.jpg",
+      "./assets/images/projects/residental/14-supernova/3.jpg",
+      "./assets/images/projects/residental/14-supernova/4.jpg",
+      "./assets/images/projects/residental/14-supernova/5.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "baza-kozlyn",
+    "title": "База відпочинку у с. Козлин",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/14-baza-kozlyn/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/14-baza-kozlyn/1.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "family-city",
+    "title": "Family City",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/15-family-city/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/15-family-city/1.jpg",
+      "./assets/images/projects/residental/15-family-city/2.jpg",
+      "./assets/images/projects/residental/15-family-city/3.jpg",
+      "./assets/images/projects/residental/15-family-city/4.jpg",
+      "./assets/images/projects/residental/15-family-city/5.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "commercial-kulyka",
+    "title": "Комерція по вул. Кулика і Гудачека",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/15-commercial-kulyka/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/15-commercial-kulyka/1.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "tarasove",
+    "title": "Тарасове",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/16-tarasove/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/16-tarasove/1.jpg",
+      "./assets/images/projects/residental/16-tarasove/2.jpg",
+      "./assets/images/projects/residental/16-tarasove/3.jpg",
+      "./assets/images/projects/residental/16-tarasove/4.jpg",
+      "./assets/images/projects/residental/16-tarasove/5.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "restaurant-okolytsia",
+    "title": "Ресторан \"Околиця\"",
+    "category": "public_buildings",
+    "categoryName": "Громадські будівлі",
+    "image": "./assets/images/projects/public-buildings/16-restaurant-okolytsia/cover.jpg",
+    "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
+    "details": [
+      "Площа території: 5 га",
+      "Рік розробки: 2023",
+      "Локація: м. Рівне",
+      "Статус: Проектування"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/16-restaurant-okolytsia/1.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "dream-town",
+    "title": "Dream Town",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/17-dream-town/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/17-dream-town/1.jpg",
+      "./assets/images/projects/residental/17-dream-town/2.jpg",
+      "./assets/images/projects/residental/17-dream-town/3.jpg",
+      "./assets/images/projects/residental/17-dream-town/4.jpg",
+      "./assets/images/projects/residental/17-dream-town/5.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "green-ville",
+    "title": "Green Ville",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/18-green-ville/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/18-green-ville/1.jpg",
+      "./assets/images/projects/residental/18-green-ville/2.jpg",
+      "./assets/images/projects/residental/18-green-ville/3.jpg",
+      "./assets/images/projects/residental/18-green-ville/4.jpg",
+      "./assets/images/projects/residental/18-green-ville/5.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "hill-house",
+    "title": "Hill House",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/19-hill-house/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/19-hill-house/1.jpg",
+      "./assets/images/projects/residental/19-hill-house/2.jpg",
+      "./assets/images/projects/residental/19-hill-house/3.jpg",
+      "./assets/images/projects/residental/19-hill-house/4.jpg",
+      "./assets/images/projects/residental/19-hill-house/5.png"
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "gruschevskii",
+    "title": "Житловий будинок на вул. Грушевського",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/20-gruschevskii/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/20-gruschevskii/1.jpg",
+      "./assets/images/projects/residental/20-gruschevskii/2.jpg",
+      "./assets/images/projects/residental/20-gruschevskii/3.png",
+      "./assets/images/projects/residental/20-gruschevskii/4.jpg",
+      "./assets/images/projects/residental/20-gruschevskii/5.png"
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "sunny-town",
+    "title": "Sunny Town",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/21-sunny-town/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/21-sunny-town/1.jpg",
+      "./assets/images/projects/residental/21-sunny-town/2.jpg",
+      "./assets/images/projects/residental/21-sunny-town/3.jpg",
+      "./assets/images/projects/residental/21-sunny-town/4.jpg",
+      "./assets/images/projects/residental/21-sunny-town/5.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "vidrodzhennya",
+    "title": "Відродження",
+    "category": "residential_complexes",
+    "categoryName": "Житлові комплекси",
+    "image": "./assets/images/projects/residental/22-vidrodzhennya/cover.jpg",
+    "description": "Сучасний житловий комплекс \"Галицький\" поєднує в собі комфорт, стиль та новітні технології будівництва. Розташований у затишному районі міста, він пропонує мешканцям розвинену інфраструктуру, зелені зони та зручні планування квартир.",
+    "details": [
+      "Площа: 15 000 м²",
+      "Рік реалізації: 2023",
+      "Локація: м. Львів",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/22-vidrodzhennya/1.jpg",
+      "./assets/images/projects/residental/22-vidrodzhennya/2.jpg",
+      "./assets/images/projects/residental/22-vidrodzhennya/3.jpg",
+      "./assets/images/projects/residental/22-vidrodzhennya/4.jpg",
+      "./assets/images/projects/residental/22-vidrodzhennya/5.jpg"
+    ]
+  }
+]

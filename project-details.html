@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Деталі проекту - Top Gip</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./css/project-details.css" />
+    <link rel="icon" type="image/png" href="./assets/images/icons/favicon.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta name="description" content="" />
+
+    <!-- Swiper CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+
+    <!-- AOS CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="header-placeholder"></div>
+
+    <!-- Project Details Section -->
+    <section class="project-details-section">
+      <div id="project-content" class="project-content">
+        <!-- Content will be loaded dynamically -->
+        <div class="loading">Завантаження...</div>
+      </div>
+
+      <!-- Lightbox (повноекранне фото) -->
+      <div id="lightbox" class="lightbox">
+        <span class="close" onclick="closeLightbox()">&times;</span>
+        <span class="prev" onclick="changeSlide(-1)">&#10094;</span>
+        <img class="lightbox-content" id="lightbox-img" />
+        <span class="next" onclick="changeSlide(1)">&#10095;</span>
+      </div>
+    </section>
+
+    <div id="footer-placeholder"></div>
+
+    <button id="scrollTopBtn" title="На початок">
+      <svg
+        data-v-e0024724=""
+        viewBox="0 0 1024 1280"
+        height="16"
+        width="16"
+        xmlns="http://www.w3.org/2000/svg"
+        class="icon-scroll"
+      >
+        <path
+          xmlns="http://www.w3.org/2000/svg"
+          fill="currentColor"
+          d="M1011 928q0 13-10 23l-50 50q-10 10-23 10t-23-10L512 608l-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z"
+        ></path>
+      </svg>
+    </button>
+
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script src="./js/load-components.js"></script>
+    <script src="./js/script.js"></script>
+    <script src="./js/scrollToTopbtn.js"></script>
+
+    <!-- AOS JS -->
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1000, // тривалість анімації
+        once: true, // анімація тільки при першому скролі
+        offset: 200, // відстань, коли тригериться анімація
+      });
+    </script>
+    <script src="./js/project-details.js"></script>
+  </body>
+</html>

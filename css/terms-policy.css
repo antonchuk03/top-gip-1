@@ -1,0 +1,56 @@
+body {
+  background-color: #293135; /* 1d1d24 */
+  color: #ddd;
+}
+
+.terms,
+.policy {
+  margin: 0 70px;
+  padding: 80px;
+  text-align: start;
+  min-height: 800px;
+}
+
+.terms h2,
+.policy h2 {
+  font-size: 50px;
+  margin: 40px 0 0;
+}
+
+.terms h3,
+.terms-content p,
+.policy h3,
+.policy-content p {
+  font-size: 15px;
+}
+
+.terms-content,
+.policy-content {
+  margin: 20px;
+  width: 90%;
+}
+
+.terms-content li,
+.policy-content li {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.terms-content p,
+.policy-content p {
+  margin-bottom: 10px;
+}
+
+.policy-content a {
+  font-weight: 800;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.policy-content a:hover {
+  color: #f2b950;
+}
+
+/* .footer {
+  color: #293135;
+} */
