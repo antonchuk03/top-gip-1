@@ -1,4 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
+  const lightbox = document.getElementById("lightbox");
+
   // Ініціалізація AOS
   AOS.init({
     duration: 1000,
@@ -30,11 +32,13 @@ document.addEventListener("DOMContentLoaded", function () {
     currentIndex = images.indexOf(img);
 
     showSlide(currentIndex);
-    document.getElementById("lightbox").style.display = "flex"; // Використовуємо flex для центрування
+    document.body.classList.add("lightbox-open");
+    lightbox.style.display = "flex"; // Використовуємо flex для центрування
   };
 
   window.closeLightbox = function () {
-    document.getElementById("lightbox").style.display = "none";
+    document.body.classList.remove("lightbox-open");
+    lightbox.style.display = "none";
   };
 
   function showSlide(index) {
@@ -53,7 +57,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Додавання обробки клавіш клавіатури
   document.addEventListener("keydown", function (event) {
-    const lightbox = document.getElementById("lightbox");
     // Перевіряємо, чи відкритий лайтбокс
     if (lightbox && lightbox.style.display === "flex") {
       if (event.key === "ArrowLeft") {
@@ -68,4 +71,12 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
   });
+
+  if (lightbox) {
+    lightbox.addEventListener("click", function (event) {
+      if (event.target === lightbox) {
+        window.closeLightbox();
+      }
+    });
+  }
 });

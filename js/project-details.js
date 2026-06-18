@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const contentContainer = document.getElementById("project-content");
+  const lightbox = document.getElementById("lightbox");
 
   if (!contentContainer) {
     console.error("Content container not found!");
@@ -33,11 +34,13 @@ document.addEventListener("DOMContentLoaded", () => {
     currentIndex = images.indexOf(img);
 
     showSlide(currentIndex);
-    document.getElementById("lightbox").style.display = "flex";
+    document.body.classList.add("lightbox-open");
+    lightbox.style.display = "flex";
   };
 
   window.closeLightbox = function () {
-    document.getElementById("lightbox").style.display = "none";
+    document.body.classList.remove("lightbox-open");
+    lightbox.style.display = "none";
   };
 
   function showSlide(index) {
@@ -59,7 +62,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Keyboard navigation
   document.addEventListener("keydown", (event) => {
-    const lightbox = document.getElementById("lightbox");
     if (lightbox && lightbox.style.display === "flex") {
       if (event.key === "ArrowLeft") {
         window.changeSlide(-1);
@@ -70,6 +72,14 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
   });
+
+  if (lightbox) {
+    lightbox.addEventListener("click", (event) => {
+      if (event.target === lightbox) {
+        window.closeLightbox();
+      }
+    });
+  }
 
   async function loadProject() {
     let lastError = null;
