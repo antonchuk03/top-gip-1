@@ -5,7 +5,7 @@
     "title": "ЖК Skywalker",
     "category": "residential_complexes",
     "categoryName": "Житлові комплекси",
-    "image": "./assets/images/projects/residental/1-skywalker/cover.png",
+    "image": "./assets/images/projects/residental/1-skywalker/cover.jpg",
     "description": "\" Skywalker\" - це новий сучасний комплекс преміум класу. Цей проєкт досить масштабний, в ньому планується декілька спортивних та дитячих майданчиків, кафе, магазини, міні маркети. Житловий комплекс \"Skywalker\" схожий на маленьке містечко європейського типу, розміщений в екологічно чистому районі. Він ідеально підходить для комфортного проживання та роботи у місті. Власні комунальні служби, розвинута інфраструктура, раціональні планування квартир дозволять зробити покупку квартири вигідною інфестицією у ваше щасливе майбутнє",
     "details": [
       "Площа: 15 000 м²",
@@ -14,11 +14,11 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/1-skywalker/1.png",
-      "./assets/images/projects/residental/1-skywalker/2.png",
-      "./assets/images/projects/residental/1-skywalker/3.png",
-      "./assets/images/projects/residental/1-skywalker/4.png",
-      "./assets/images/projects/residental/1-skywalker/5.png"
+      "./assets/images/projects/residental/1-skywalker/1.jpg",
+      "./assets/images/projects/residental/1-skywalker/2.jpg",
+      "./assets/images/projects/residental/1-skywalker/3.jpg",
+      "./assets/images/projects/residental/1-skywalker/4.jpg",
+      "./assets/images/projects/residental/1-skywalker/5.jpg"
     ]
   },
   {
@@ -213,7 +213,7 @@
     "title": "\"Агро-Експрес-Сервіс\" у м. Мар'янів",
     "category": "industrial",
     "categoryName": "Промислове будівництво",
-    "image": "./assets/images/projects/industrial/2-agro-express-service/cover.png",
+    "image": "./assets/images/projects/industrial/2-agro-express-service/cover.jpg",
     "description": "Проект реконструкції існуючого виробничого цеху під завод металоконструкцій. Впроваджено енергоефективні технології та сучасні системи вентиляції.",
     "details": [
       "Площа: 5 000 м²",
@@ -222,7 +222,7 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/industrial/2-agro-express-service/cover.png"
+      "./assets/images/projects/industrial/2-agro-express-service/cover.jpg"
     ]
   },
   {
@@ -385,11 +385,11 @@
       "Статус: В процесі"
     ],
     "gallery": [
-      "./assets/images/projects/private-housing/4-villa-alexandriya/1.png",
-      "./assets/images/projects/private-housing/4-villa-alexandriya/2.png",
-      "./assets/images/projects/private-housing/4-villa-alexandriya/3.png",
-      "./assets/images/projects/private-housing/4-villa-alexandriya/4.png",
-      "./assets/images/projects/private-housing/4-villa-alexandriya/5.png"
+      "./assets/images/projects/private-housing/4-villa-alexandriya/1.jpg",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/2.jpg",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/3.jpg",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/4.jpg",
+      "./assets/images/projects/private-housing/4-villa-alexandriya/5.jpg"
     ]
   },
   {
@@ -1060,7 +1060,7 @@
       "./assets/images/projects/residental/19-hill-house/2.jpg",
       "./assets/images/projects/residental/19-hill-house/3.jpg",
       "./assets/images/projects/residental/19-hill-house/4.jpg",
-      "./assets/images/projects/residental/19-hill-house/5.png"
+      "./assets/images/projects/residental/19-hill-house/5.jpg"
     ]
   },
   {
@@ -1080,9 +1080,9 @@
     "gallery": [
       "./assets/images/projects/residental/20-gruschevskii/1.jpg",
       "./assets/images/projects/residental/20-gruschevskii/2.jpg",
-      "./assets/images/projects/residental/20-gruschevskii/3.png",
+      "./assets/images/projects/residental/20-gruschevskii/3.jpg",
       "./assets/images/projects/residental/20-gruschevskii/4.jpg",
-      "./assets/images/projects/residental/20-gruschevskii/5.png"
+      "./assets/images/projects/residental/20-gruschevskii/5.jpg"
     ]
   },
   {
