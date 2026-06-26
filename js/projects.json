@@ -3,93 +3,77 @@
     "id": 1,
     "slug": "zhk-skywalker",
     "title": "ЖК Skywalker",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/1-skywalker/cover.jpg",
     "description": "\" Skywalker\" - це новий сучасний комплекс преміум класу. Цей проєкт досить масштабний, в ньому планується декілька спортивних та дитячих майданчиків, кафе, магазини, міні маркети. Житловий комплекс \"Skywalker\" схожий на маленьке містечко європейського типу, розміщений в екологічно чистому районі. Він ідеально підходить для комфортного проживання та роботи у місті. Власні комунальні служби, розвинута інфраструктура, раціональні планування квартир дозволять зробити покупку квартири вигідною інфестицією у ваше щасливе майбутнє",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 26 814 м²",
+      "Рік проектування: 2024",
+      "Рік реалізації: 2026",
+      "Локація: м. Луцьк",
+      "Статус: В процесі реалізації"
     ],
     "gallery": [
       "./assets/images/projects/residental/1-skywalker/1.jpg",
       "./assets/images/projects/residental/1-skywalker/2.jpg",
       "./assets/images/projects/residental/1-skywalker/3.jpg",
       "./assets/images/projects/residental/1-skywalker/4.jpg",
-      "./assets/images/projects/residental/1-skywalker/5.jpg"
-    ]
+      "./assets/images/projects/residental/1-skywalker/5.jpg",
+      "./assets/images/projects/residental/1-skywalker/6.jpg",
+      "./assets/images/projects/residental/1-skywalker/7.jpg",
+      "./assets/images/projects/residental/1-skywalker/8.jpg"
+    ],
+    "categories": ["residential_complexes", "urban_planning"],
+    "categoryNames": ["Житлові комплекси", "Містобудування"]
   },
   {
     "id": 2,
     "slug": "klevan-reb-center",
     "title": "Клевань Реб центр",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
     "image": "./diff/question-mark.png",
     "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 12 000 м²",
+      "Рік проектування: 2023",
+      "Рік реалізації: 2025",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Не реалізовано"
     ],
-    "gallery": ["./diff/question-mark.png"]
+    "gallery": ["./diff/question-mark.png"],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
-
   {
     "id": 3,
-    "slug": "zhk-skywalker",
-    "title": "ЖК Skywalker",
-    "category": "urban_planning",
-    "categoryName": "Містобудування",
-    "image": "./assets/images/projects/urban-planning/1-skywalker/cover.jpg",
-    "description": "\" Skywalker\" - це новий сучасний комплекс преміум класу. Цей проєкт досить масштабний, в ньому планується декілька спортивних та дитячих майданчиків, кафе, магазини, міні маркети. Житловий комплекс \"Skywalker\" схожий на маленьке містечко європейського типу, розміщений в екологічно чистому районі. Він ідеально підходить для комфортного проживання та роботи у місті. Власні комунальні служби, розвинута інфраструктура, раціональні планування квартир дозволять зробити покупку квартири вигідною інфестицією у ваше щасливе майбутнє",
-    "details": [
-      "Площа: 2 400 м²",
-      "Рік реалізації: 2022",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
-    ],
-    "gallery": [
-      "./diff/public-buildings.jpg",
-      "./diff/industrial.jpg",
-      "./diff/competitions.jpg"
-    ]
-  },
-  {
-    "id": 4,
     "slug": "villa-denis",
     "title": "Villa Denis",
-    "category": "private_housing",
-    "categoryName": "Приватне житло",
     "image": "./assets/images/projects/private-housing/1-villa-denis/cover.jpg",
     "description": "В цьому проекті відразу ж привертає на себе увагу контраст фактур - світлого каменю та блогородного тону HPL-панелей. Заворожує як гарно падає світло та підкреслює ідеальну геометрію. На цих ракурсах чіткість ліній господарює, вона впорядковує відношення всіх елементів простору і робить її зовнішню красу такою привабливою. Дивує, наскільки спокійним і чистим воно сприймається, при тому, що тут так багато складових. В проекті велика кількість скла, а темні панелі гарно балансуют ь зі світлими поверхнями і створюють інтенсивний контраст.",
     "details": [
       "Площа: 350 м²",
-      "Рік реалізації: 2024",
-      "Локація: передмістя Києва",
-      "Статус: В процесі"
+      "Рік проектування: 2019",
+      "Рік реалізації: 2020",
+      "Локація: м. Рівне",
+      "Статус: Реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/private-housing/1-villa-denis/1.jpg",
       "./assets/images/projects/private-housing/1-villa-denis/2.jpg"
-    ]
+    ],
+    "categories": ["private_housing"],
+    "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 5,
+    "id": 4,
     "slug": "lohistychnyi-sklad",
     "title": "Логістичний склад",
-    "category": "industrial",
-    "categoryName": "Промислове будівництво",
     "image": "./assets/images/projects/industrial/1-log-sklad/cover.jpg",
     "description": "Сучасний логістичний комплекс - це ціла інфраструктура, здатна зробити торгову або виробничу діяльність більш зручною та ефективною. В нашому випадку ми намагалися досягнути бездоганності. Архітектура виконана в синіх тонах, які слугують гарним акцентом по всій будівлі. А білі перфоровані композитні панелі додають гостроти враження.",
     "details": [
-      "Площа: 8 000 м²",
+      "Площа: 3 031 м²",
+      "Рік проектування: 2022",
       "Рік реалізації: 2023",
-      "Локація: Львівська область",
-      "Статус: Будівництво"
+      "Локація: м. Рівне",
+      "Статус: Реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/industrial/1-log-sklad/1.jpg",
@@ -97,21 +81,22 @@
       "./assets/images/projects/industrial/1-log-sklad/3.jpg",
       "./assets/images/projects/industrial/1-log-sklad/4.jpg",
       "./assets/images/projects/industrial/1-log-sklad/5.jpg"
-    ]
+    ],
+    "categories": ["industrial"],
+    "categoryNames": ["Промислове будівництво"]
   },
   {
-    "id": 6,
+    "id": 5,
     "slug": "park-u-m-oleksandriia",
     "title": "Парк у м. Олександрія",
-    "category": "competitions",
-    "categoryName": "Конкурси",
     "image": "./assets/images/projects/competitions/1-park-olexandriya/cover.jpg",
     "description": "Ревіталізація території парку передбачає: зону майдану для проведення заходів, з фотозоною та зоною відпочинку з закладами харчування; зону літньої естради; ігрову зону; спортивно охдоровчу, парково-відпочинкову з лавками мафами, експозиціями; рекреаційну, до якої входить водно зелений діаметр з пляжем та поле для запуску повітряних куль. Орієнтовна площа понад 50 га.",
     "details": [
-      "Площа: 50 га",
-      "Рік участі: 2024",
-      "Локація: м. Олександрія",
-      "Статус: Концепція"
+      "Площа: 500 000 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/competitions/1-park-olexandriya/1.jpg",
@@ -119,21 +104,22 @@
       "./assets/images/projects/competitions/1-park-olexandriya/3.jpg",
       "./assets/images/projects/competitions/1-park-olexandriya/4.jpg",
       "./assets/images/projects/competitions/1-park-olexandriya/5.jpg"
-    ]
+    ],
+    "categories": ["competitions"],
+    "categoryNames": ["Конкурси"]
   },
   {
-    "id": 7,
+    "id": 6,
     "slug": "central-city-apartments",
     "title": "Central City Apartments",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/2-central-city-apartments/cover.jpg",
     "description": " \"Central City Apartments\" знаходиться у самому центрі міста, кожна деталь, від зручного планування квартири до оточення цікавими сусідами, створена, щоб дарувати комфорт. Затишні вулички, яскраві будівлі, прогресивні люди, які тебе розуміють. Більше не потрібно шукати красиве життя де інде, воно поруч. Це справді виняткове місце - яскраве і неподібне до інших. Тут комфорт і зручність продумані до дрібниць, а сучасний підхід не руйнує затишок. Тут живуть прогресивні люди, які цінують традиції теплого сусідства.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 46 060 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: 2026",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: В процесі реалізації"
     ],
     "gallery": [
       "./assets/images/projects/residental/2-central-city-apartments/1.jpg",
@@ -144,60 +130,90 @@
       "./assets/images/projects/residental/2-central-city-apartments/6.jpg",
       "./assets/images/projects/residental/2-central-city-apartments/7.jpg",
       "./assets/images/projects/residental/2-central-city-apartments/8.jpg",
-      "./assets/images/projects/residental/2-central-city-apartments/9.jpg"
-    ]
+      "./assets/images/projects/residental/2-central-city-apartments/9.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/10.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/11.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/12.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/13.jpg",
+      "./assets/images/projects/residental/2-central-city-apartments/14.jpg"
+    ],
+    "categories": ["residential_complexes", "urban_planning"],
+    "categoryNames": ["Житлові комплекси", "Містобудування"]
   },
   {
-    "id": 8,
-    "slug": "school-sport-happystreet",
-    "title": "Школа + спорт Щасливе",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
+    "id": 7,
+    "slug": "school-happystreet",
+    "title": "Школа Щасливе",
     "image": "./diff/question-mark.png",
     "description": "Затишний котедж, інтегрований у лісовий ландшафт. Панорамні вікна забезпечують максимальне єднання з природою, а використання дерева в оздобленні фасадів підкреслює еко-стиль.",
     "details": [
-      "Площа: 280 м²",
-      "Рік реалізації: 2023",
-      "Локація: Карпати",
-      "Статус: Реалізовано"
+      "Площа: 6 235 м²",
+      "Рік проектування: 2024",
+      "Рік реалізації: 2026",
+      "Локація: м. Рівне",
+      "Статус: В процесі реалізації"
     ],
-    "gallery": ["./diff/question-mark.png"]
+    "gallery": ["./diff/question-mark.png"],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
+  },
+  {
+    "id": 8,
+    "slug": "sport-happystreet",
+    "title": "Спорт Щасливе",
+    "image": "./diff/question-mark.png",
+    "description": "Затишний котедж, інтегрований у лісовий ландшафт. Панорамні вікна забезпечують максимальне єднання з природою, а використання дерева в оздобленні фасадів підкреслює еко-стиль.",
+    "details": [
+      "Площа: 2 700 м²",
+      "Рік проектування: 2025",
+      "Рік реалізації: 2026",
+      "Локація: м. Рівне",
+      "Статус: В процесі реалізації"
+    ],
+    "gallery": ["./diff/question-mark.png"],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
     "id": 9,
     "slug": "supernova",
     "title": "Супернова",
-    "category": "urban_planning",
-    "categoryName": "Містобудування",
-    "image": "./assets/images/projects/urban-planning/2-supernova/cover.jpg",
+    "image": "./assets/images/projects/residental/14-supernova/cover.jpg",
     "description": "ЖК \"Supernova\" розташований в районі вулиць Львівської та Потебні. Поруч - ботанічний сад та мальовничі береги Стиру, а до центру міста - менше двох кілометрів. Планування, творча робота дизайнерів, новий підхід до вибору локацій та реально продуманої інфраструктури - це основні наші переваги. А панорама вас зачарує, адже забудова межує з ботанічним садом, тому ви зможете насолоджуватися одним із найкращих у місті краєвидів. Окрім того, таке сусідство позитивно впливає на екологічні показники та дає низький рівень стороннього шуму в квартирах. Тут спокійно та тихо.",
     "details": [
-      "Площа: 18 000 м²",
-      "Рік реалізації: 2024",
-      "Локація: м. Київ",
-      "Статус: Будівництво"
+      "Площа: 21 102 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: В процесі реалізації",
+      "Локація: м. Львівська",
+      "Статус: В процесі реалізації"
     ],
     "gallery": [
-      "./assets/images/projects/urban-planning/2-supernova/1.jpg",
-      "./assets/images/projects/urban-planning/2-supernova/2.jpg",
-      "./assets/images/projects/urban-planning/2-supernova/3.jpg",
-      "./assets/images/projects/urban-planning/2-supernova/4.jpg",
-      "./assets/images/projects/urban-planning/2-supernova/5.jpg"
-    ]
+      "./assets/images/projects/residental/14-supernova/1.jpg",
+      "./assets/images/projects/residental/14-supernova/2.jpg",
+      "./assets/images/projects/residental/14-supernova/3.jpg",
+      "./assets/images/projects/residental/14-supernova/4.jpg",
+      "./assets/images/projects/residental/14-supernova/5.jpg",
+      "./assets/images/projects/residental/14-supernova/6.jpg",
+      "./assets/images/projects/residental/14-supernova/7.jpg",
+      "./assets/images/projects/residental/14-supernova/8.jpg",
+      "./assets/images/projects/residental/14-supernova/9.jpg",
+      "./assets/images/projects/residental/14-supernova/10.jpg"
+    ],
+    "categories": ["urban_planning", "residential_complexes"],
+    "categoryNames": ["Містобудування", "Житлові комплекси"]
   },
   {
     "id": 10,
     "slug": "lisnuki",
     "title": "Lisnuki",
-    "category": "private_housing",
-    "categoryName": "Приватне житло",
     "image": "./assets/images/projects/private-housing/2-lisnuki/cover.jpg",
     "description": "Сучасна архітектура будинку у якому головний принцип передбачає виділення потрібних речей і відмова від всіх зайвих компонентів. У баченні наших архітекторів будинок в такому стилі досконалий, а його планування відрізняється функціональністю, практичністю і зручністю. Дизайн будинку користується попитом у всіх вікових категорій. Це стильовий напрям сприяє створенню простору, що забезпечує візуальний простір і велику кількість світла. Одночасно з цим, такий будинок вирішує і деякі економічні проблеми - через відсутність великої кількості інтер'єрних елементів відпадає необхідність не обгрунтованої витрати коштів.",
     "details": [
-      "Площа території: 25 га",
-      "Рік розробки: 2022",
+      "Площа території: 650 м²",
+      "Рік проектування: 2017",
+      "Рік реалізації: -",
       "Локація: м. Рівне",
-      "Статус: Затверджено"
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/private-housing/2-lisnuki/1.jpg",
@@ -205,38 +221,40 @@
       "./assets/images/projects/private-housing/2-lisnuki/3.jpg",
       "./assets/images/projects/private-housing/2-lisnuki/4.jpg",
       "./assets/images/projects/private-housing/2-lisnuki/5.jpg"
-    ]
+    ],
+    "categories": ["private_housing"],
+    "categoryNames": ["Приватне житло"]
   },
   {
     "id": 11,
     "slug": "ahro-express-service-u-m-maryaniv",
     "title": "\"Агро-Експрес-Сервіс\" у м. Мар'янів",
-    "category": "industrial",
-    "categoryName": "Промислове будівництво",
     "image": "./assets/images/projects/industrial/2-agro-express-service/cover.jpg",
-    "description": "Проект реконструкції існуючого виробничого цеху під завод металоконструкцій. Впроваджено енергоефективні технології та сучасні системи вентиляції.",
+    "description": "Цукровий завод. Комплекс допоміжних споруд і технічне переоснащення",
     "details": [
-      "Площа: 5 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Мар'янів",
+      "Площа: 10 000 м²",
+      "Рік проектування: 2021-2024",
+      "Рік реалізації: 2021-2024",
+      "Локація: смт. Мар'янів, Волинська область",
       "Статус: Реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/industrial/2-agro-express-service/cover.jpg"
-    ]
+    ],
+    "categories": ["industrial"],
+    "categoryNames": ["Промислове будівництво"]
   },
   {
     "id": 12,
     "slug": "360",
     "title": "360",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/3-360/cover.jpg",
     "description": "\"360\" - житловий комплекс комфорт-класу, для тих, хто цінує свій час та звик бути у центрі подій. Комплекс знаходиться в районі з розвиненою інфраструктурою: поруч школи, садочки, поліклініка, торговий центр. Все навколо тебе! При проектуванні комплексу використані архітектурні рішення в стилі \"геометричного хай-теку\", які передбачують каскадну забудову та чітку геометрію фасаду. Проектом передбачено можливість трансформації внутрішнього простору квартир, завдяки монолітно-каркасній забудові. Зручність мешканцям забезпечить наявність підземного паркінгу, закрита територія та власна управлінська компанія.",
     "details": [
       "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Рік проектування: 2017",
+      "Рік реалізації: 2019",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -245,82 +263,58 @@
       "./assets/images/projects/residental/3-360/3.jpg",
       "./assets/images/projects/residental/3-360/4.jpg",
       "./assets/images/projects/residental/3-360/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
     "id": 13,
     "slug": "dubno-reb-center",
     "title": "Дубно Реб центр",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
     "image": "./diff/question-mark.png",
     "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 4 500 м²",
+      "Рік проектування: 2024",
+      "Рік реалізації: 2026",
       "Локація: м. Рівне",
-      "Статус: Проектування"
-    ],
-    "gallery": ["./diff/question-mark.png"]
-  },
-
-  {
-    "id": 14,
-    "slug": "central-city-apartments2",
-    "title": "Central City Apartments",
-    "category": "urban_planning",
-    "categoryName": "Містобудування",
-    "image": "./assets/images/projects/urban-planning/3-central-city-apartments/cover.jpg",
-    "description": " \"Central City Apartments\" знаходиться у самому центрі міста, кожна деталь, від зручного планування квартири до оточення цікавими сусідами, створена, щоб дарувати комфорт. Затишні вулички, яскраві будівлі, прогресивні люди, які тебе розуміють. Більше не потрібно шукати красиве життя де інде, воно поруч. Це справді виняткове місце - яскраве і неподібне до інших. Тут комфорт і зручність продумані до дрібниць, а сучасний підхід не руйнує затишок. Тут живуть прогресивні люди, які цінують традиції теплого сусідства.",
-    "details": [
-      "Площа: 2 400 м²",
-      "Рік реалізації: 2022",
-      "Локація: м. Львів",
       "Статус: Реалізовано"
     ],
-    "gallery": [
-      "./assets/images/projects/urban-planning/3-central-city-apartments/1.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/2.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/3.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/4.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/5.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/6.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/7.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/8.jpg",
-      "./assets/images/projects/urban-planning/3-central-city-apartments/9.jpg"
-    ]
+    "gallery": ["./diff/question-mark.png"],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "novostav",
     "title": "Novostav",
-    "category": "private_housing",
-    "categoryName": "Приватне житло",
     "image": "./assets/images/projects/private-housing/3-novostav/cover.jpg",
     "description": "Тиша та єднання з природою створюють атмосферу, яка сприяє до відпочинку або сконцентрованій роботі. Силует будинку геометричний, але в той же час відомий і навіть знаковий. Продумане планування поміщається у простих лініях. Значні площі скління розчиняють для мешканців будинку захоплюючі види які переповнюють світлом не тільки житло, але і інші допоміжні приміщення. Загалом, і в середині будинку світло не втрачає особливих перепон. Більшість границь приміщення та зон умовні, і обіграні трансформуючими перегородками зі скла, текстилю та функціональними елементами інтер'єра.",
     "details": [
-      "Площа: 350 м²",
+      "Площа: 439 м²",
+      "Рік проектування: 2021",
       "Рік реалізації: 2024",
-      "Локація: передмістя Києва",
-      "Статус: В процесі"
+      "Локація: м. Рівне",
+      "Статус: Реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/private-housing/3-novostav/1.jpg",
       "./assets/images/projects/private-housing/3-novostav/2.jpg"
-    ]
+    ],
+    "categories": ["private_housing"],
+    "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "surendzh",
-    "title": "Сурендж",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
+    "title": "Соурендж",
     "image": "./assets/images/projects/residental/4-surendzh/cover.jpg",
     "description": "Будівля являє собою організовану симетричну композицію, яка в своєму образному рішенні відображає перетин горизонтальних та вертикальних форм та їх стрімкий рух вгору. Весь комплекс можна умовно поділити на два окремі композиційно просторові об'єми. Виразність формується завдяки коннтрасним підбором матеріалу на фасадах. Об'єм має багато скла та композитних матеріалів. Архітектурна стилістика будівлі: функціоналізм в поєднанні з хай-тек. Щодо загальної містобудівної ситуації, то даний об'єму буде домінантою кварталу, оскільки будівлі навколо мають горизонтальну композицію (тобто навколо будівлі до 5-6-ти поверхів). Даний об'єм буде вигідно завершувати ансамбль будівель та сне композиційною прив'язкою ділового кварталу.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 10 481 м²",
+      "Рік проектування: 2023",
+      "Рік реалізації: 2025",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -329,38 +323,39 @@
       "./assets/images/projects/residental/4-surendzh/3.jpg",
       "./assets/images/projects/residental/4-surendzh/4.jpg",
       "./assets/images/projects/residental/4-surendzh/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "office-happystreet",
     "title": "Офіс Щасливе",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
     "image": "./diff/question-mark.png",
     "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 7 518 м²",
+      "Рік проектування: 2025",
+      "Рік реалізації: 2026",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Реалізовано"
     ],
-    "gallery": ["./diff/question-mark.png"]
+    "gallery": ["./diff/question-mark.png"],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
-
   {
-    "id": 18,
+    "id": 17,
     "slug": "mvs",
     "title": "База відпочинку МВС",
-    "category": "urban_planning",
-    "categoryName": "Містобудування",
     "image": "./assets/images/projects/urban-planning/4-mvs/cover.jpg",
     "description": "Мабуть кожен мріяв покинути все і поїхати на відпочинок в якесь тихе містечко, далеко від людського ока, ми спробували зробити це бажання реальністю. Спроектувавши базу відпочинку для МВС ми втілили усі найкращі ідеї. На широкополих ланах постеляються дві баскетбольні площадки, дві площадки для міні футболу і один великий стадіон для повноцінної гри у футбол та три тенісних корта. Для любителів усамітнення є великий сквер з водоймою, де ви можете відпочити в бесідках або взяти човен та покататися по річці. Поціновувачі відпочинку біля води та засмаги, запроектований великий басейн з шезлонгами. Комплекс має свою вертолітну площадку, літню сцену, багато місця для парковки та безліч інших цікавинок. Тут ви знайдете відпочинок на будь-який смак.",
     "details": [
-      "Площа: 2 400 м²",
-      "Рік реалізації: 2022",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 12 000 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/urban-planning/4-mvs/1.jpg",
@@ -368,21 +363,22 @@
       "./assets/images/projects/urban-planning/4-mvs/3.jpg",
       "./assets/images/projects/urban-planning/4-mvs/4.jpg",
       "./assets/images/projects/urban-planning/4-mvs/5.jpg"
-    ]
+    ],
+    "categories": ["urban_planning"],
+    "categoryNames": ["Містобудування"]
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "villa-alexandriya",
     "title": "Villa Alexandriya",
-    "category": "private_housing",
-    "categoryName": "Приватне житло",
     "image": "./assets/images/projects/private-housing/4-villa-alexandriya/cover.jpg",
     "description": "Будинок складається з двох поверхів. які гарно вписані в оточуючу місцевість. Білосніжні HPL-панелі не лише слугують окрасою, а й несуть в собі багато функціональних навантажень. Завдяки величезним вікнам відкривається панорама з усіх приміщень на красу оточуючого середовища. Поєднання дерева, скла та бетону ось основи для цього будинку.",
     "details": [
-      "Площа: 350 м²",
-      "Рік реалізації: 2024",
-      "Локація: передмістя Києва",
-      "Статус: В процесі"
+      "Площа: 1 800 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: 2020",
+      "Локація: м. Рівне",
+      "Статус: Реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/private-housing/4-villa-alexandriya/1.jpg",
@@ -390,20 +386,21 @@
       "./assets/images/projects/private-housing/4-villa-alexandriya/3.jpg",
       "./assets/images/projects/private-housing/4-villa-alexandriya/4.jpg",
       "./assets/images/projects/private-housing/4-villa-alexandriya/5.jpg"
-    ]
+    ],
+    "categories": ["private_housing"],
+    "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "bridge-tower",
     "title": "Bridge Tower",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/5-bridge-tower/cover.jpg",
     "description": "\"Bridge Tower\" - ідеальне місце для життя і відпочинку. Новаторський підхід до наповнення житлового комплексу, з можливістю зануритися в різнобарвний світ фарб, звучання води і прогулянок парковою зоною. Ми пропонуємо житло у будинку, розташованому у центрі міста з роивнутою інфраструктурою та розширеними можливостями для чудового проведення часу. Завдяки добре налагодженому транспортному сполученню ви зможете з легкістю дістатися до будь-якого району міста. Поряд з житловим комплексом знаходяться торгівельні центри, продуктові магазини, ринок, де можна придбати екологічно чисті продукти. В даному мікрорайоні передбачені сучасні дитячі та спортивні майданчики, багато зелених насаджень і просторі зони відпочинку. ",
     "details": [
       "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Рік проектування: 2017",
+      "Рік реалізації: 2019",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -418,44 +415,45 @@
       "./assets/images/projects/residental/5-bridge-tower/9.jpg",
       "./assets/images/projects/residental/5-bridge-tower/10.jpg",
       "./assets/images/projects/residental/5-bridge-tower/11.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
+  },
+  {
+    "id": 20,
+    "slug": "rivne-obl-klin-likarnya",
+    "title": "Рівненська обласна клінічна лікарня",
+    "image": "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/cover.jpg",
+    "description": "Вже досить довгий час Рівненська обласна клінічна лікарня по вулиці Київська в Рівному потребувала реконструкції. Цим проєктом ми змінили зовнішній вигляд на 100%. Замість сірого кольору фасаду, тепер величіть біле оздоблення стін та вітражні вікна в сучасному стилі. Лікарня буде виконана за європейськими мотивами, маючи власну вертолітну вертолітну площадку, величезний зелений газон, паркову частину, вимощені бруківкою доріжки, новий пункт невідкладної допомоги та велика парковка. Ми розробили новий концепт забудови хірургічного відділення та створили вертолітну площадку для транспортування хворих.",
+    "details": [
+      "Площа території: 15 000 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/1.jpg",
+      "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/2.jpg",
+      "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/3.jpg",
+      "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/4.jpg",
+      "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
     "id": 21,
-    "slug": "rivne-obl-klin-likarnya",
-    "title": "Рівненська обласна клінічна лікарня",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/cover.jpg",
-    "description": "Вже досить довгий час Рівненська обласна клінічна лікарня по вулиці Київська в Рівному потребувала реконструкції. Цим проєктом ми змінили зовнішній вигляд на 100%. Замість сірого кольору фасаду, тепер величіть біле оздоблення стін та вітражні вікна в сучасному стилі. Лікарня буде виконана за європейськими мотивами, маючи власну вертолітну вертолітну площадку, величезний зелений газон, паркову частину, вимощені бруківкою доріжки, новий пункт невідкладної допомоги та велика парковка. Ми розробили новий концепт забудови хірургічного відділення та створили вертолітну площадку для транспортування хворих.",
-    "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
-      "Локація: м. Рівне",
-      "Статус: Проектування"
-    ],
-    "gallery": [
-      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/1.jpg",
-      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/2.jpg",
-      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/3.jpg",
-      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/4.jpg",
-      "./assets/images/projects/public-buildings/5-rivne-obl-klin-likarnya/5.jpg"
-    ]
-  },
-
-  {
-    "id": 22,
     "slug": "kikvidze",
     "title": "Містобудування по вул.Кіквідзе",
-    "category": "urban_planning",
-    "categoryName": "Містобудування",
     "image": "./assets/images/projects/urban-planning/5-kikvidze/cover.jpg",
     "description": "У цього житлового комплексу - продумана архітектурна концепція, багато переваг у технічних характеристиках. А також - свій характер і аура. Унікальні цілісні ланки одного організму ось те як можна описати цей комплекс. Дуже мальовнича природа, гарні краєвиди, це невеличке містечко яке наповнене великою кількістю житлових будинків, дитячих майданчиків, скверів, громадських місць (кафе, ресторани, магазини).",
     "details": [
-      "Площа: 2 400 м²",
-      "Рік реалізації: 2022",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 150 000 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/urban-planning/5-kikvidze/1.jpg",
@@ -463,41 +461,43 @@
       "./assets/images/projects/urban-planning/5-kikvidze/3.jpg",
       "./assets/images/projects/urban-planning/5-kikvidze/4.jpg",
       "./assets/images/projects/urban-planning/5-kikvidze/5.jpg"
-    ]
+    ],
+    "categories": ["urban_planning"],
+    "categoryNames": ["Містобудування"]
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "veresneve",
     "title": "Veresneve",
-    "category": "private_housing",
-    "categoryName": "Приватне житло",
     "image": "./assets/images/projects/private-housing/5-veresneve/cover.jpg",
     "description": "Більшість зовнішніх фасадів будинку досить стримана, а ті, що привертають увагу, зроблені з дерева. Будинок має один поверх, та величезну літню терасу на даху будівлі. Навіть маючи строгі обмеження по висоті та невеликі границі ділянки, можливо зробити грамотний проект, з просторими приміщеннями, чіткими лініями, комфортним та естетичним.",
     "details": [
-      "Площа: 350 м²",
-      "Рік реалізації: 2024",
-      "Локація: передмістя Києва",
-      "Статус: В процесі"
+      "Площа: 220 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/private-housing/5-veresneve/1.jpg",
       "./assets/images/projects/private-housing/5-veresneve/2.jpg",
       "./assets/images/projects/private-housing/5-veresneve/3.jpg",
       "./assets/images/projects/private-housing/5-veresneve/4.jpg"
-    ]
+    ],
+    "categories": ["private_housing"],
+    "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "galytskyi",
     "title": "Галицький",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/6-galytskyi/cover.jpg",
     "description": "Обираючи квартиру в житлововму комплексі Галицький ви гарантовано отримуєте в подарунок свіже повітря, адже поруч знаходиться велики парк \"Мототрек\". Мальовничі краєвиди та приємні прогулянки - ось, що вас очікуєє. У кожній квартирі втілено новий підхід до житла. Прості планування з відкритим простором та мінімум перегородое. Комплекс має свою закриту територію, в яку можуть потрапити оише житіле будинку, власний дитячий майданчик та парковку. Неподалік знаходиться школа, парк, супермаркет ФОззі, автовокзал та зупинка.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 15 600 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: 2025",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -505,43 +505,44 @@
       "./assets/images/projects/residental/6-galytskyi/2.jpg",
       "./assets/images/projects/residental/6-galytskyi/3.jpg",
       "./assets/images/projects/residental/6-galytskyi/4.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
+  },
+  {
+    "id": 24,
+    "slug": "basein",
+    "title": "Басейн СДЮСШОР",
+    "image": "./assets/images/projects/public-buildings/7-basein/cover.jpg",
+    "description": "СДЮСШОР - це насамперед неосяжна територія, на якій запроєктували величезне футбольне поле, безліч бігових доріжок, ну і звичайно у центрі вашої уваги буде басейн. Коли дивишся на нього то складається відчуття що просто у великий скляний куб залили води, а антрацитові вставки з бетону лише слугують точкою опори. Забудьте про таблички \"Обережно! Слизька підлога\" у басейнах, побудованих нашими руками, все буде відповідати всім сучасним стандартам безпеки.",
+    "details": [
+      "Площа території: 3 200 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/7-basein/1.jpg",
+      "./assets/images/projects/public-buildings/7-basein/2.jpg",
+      "./assets/images/projects/public-buildings/7-basein/3.jpg",
+      "./assets/images/projects/public-buildings/7-basein/4.jpg",
+      "./assets/images/projects/public-buildings/7-basein/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
     "id": 25,
-    "slug": "basein",
-    "title": "Басейн СДЮСШОР",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/6-basein/cover.jpg",
-    "description": "СДЮСШОР - це насамперед неосяжна територія, на якій запроєктували величезне футбольне поле, безліч бігових доріжок, ну і звичайно у центрі вашої уваги буде басейн. Коли дивишся на нього то складається відчуття що просто у великий скляний куб залили води, а антрацитові вставки з бетону лише слугують точкою опори. Забудьте про таблички \"Обережно! Слизька підлога\" у басейнах, побудованих нашими руками, все буде відповідати всім сучасним стандартам безпеки.",
-    "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
-      "Локація: м. Рівне",
-      "Статус: Проектування"
-    ],
-    "gallery": [
-      "./assets/images/projects/public-buildings/6-basein/1.jpg",
-      "./assets/images/projects/public-buildings/6-basein/2.jpg",
-      "./assets/images/projects/public-buildings/6-basein/3.jpg",
-      "./assets/images/projects/public-buildings/6-basein/4.jpg",
-      "./assets/images/projects/public-buildings/6-basein/5.jpg"
-    ]
-  },
-
-  {
-    "id": 26,
     "slug": "pliuty",
     "title": "Котеджне містечко с. Плюти",
-    "category": "urban_planning",
-    "categoryName": "Містобудування",
     "image": "./assets/images/projects/urban-planning/6-pliuty/cover.jpg",
     "description": "Котеджне містечко у селі Плюти нагадує кадри з фільму. Його атмосфера занурює вас десь у райське місце на заході, де невеличке містечко розкинулося на просторах лісу біля річки. Це по справжньому дивовижне розташування, так як воно поєднує в собі велику кількість зелених насаджень, водойм, і знаходиться недалеко від метушливого міста.",
     "details": [
-      "Площа: 2 400 м²",
-      "Рік реалізації: 2022",
-      "Локація: м. Львів",
+      "Площа: 46 900 м²",
+      "Рік проектування: 2015",
+      "Рік реалізації: 2020",
+      "Локація: м. Київ",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -550,42 +551,21 @@
       "./assets/images/projects/urban-planning/6-pliuty/3.jpg",
       "./assets/images/projects/urban-planning/6-pliuty/4.jpg",
       "./assets/images/projects/urban-planning/6-pliuty/5.jpg"
-    ]
-  },
-  {
-    "id": 27,
-    "slug": "beregnoy",
-    "title": "Beregnoy",
-    "category": "private_housing",
-    "categoryName": "Приватне житло",
-    "image": "./assets/images/projects/private-housing/6-beregnoy/cover.jpg",
-    "description": "Мистецтво створення будинку у такому стилі припускає творчість в умовах наявності мінімальної кількості деталей. При цьому проект аж ніяк не нудний, а навпаки - привабливий і по-своєму унікальний. Екстер'єр такого будинку не містить яскравих, помітних візерунків, перевага віддається тридиційним матеріалам і покриттям. Використовувачі по-окремо деревні, цегляні текстури, дозволяють інтегрувати житловий будинок в природний простір, не захаращуючи житлову територію зайвими деталями, а лтше підкреслюючи оригінальність і практичність.",
-    "details": [
-      "Площа: 350 м²",
-      "Рік реалізації: 2024",
-      "Локація: передмістя Києва",
-      "Статус: В процесі"
     ],
-    "gallery": [
-      "./assets/images/projects/private-housing/6-beregnoy/1.jpg",
-      "./assets/images/projects/private-housing/6-beregnoy/2.jpg",
-      "./assets/images/projects/private-housing/6-beregnoy/3.jpg",
-      "./assets/images/projects/private-housing/6-beregnoy/4.jpg",
-      "./assets/images/projects/private-housing/6-beregnoy/5.jpg"
-    ]
+    "categories": ["urban_planning"],
+    "categoryNames": ["Містобудування"]
   },
   {
-    "id": 28,
+    "id": 26,
     "slug": "luxury",
     "title": "Luxury Square",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/7-luxury/cover.jpg",
     "description": "ЖК \"Luxury Square\" підкреслює статус, адже ваші сусіди - найуспішніші люди Рівного. Просторі одно-, дво-, трьох кімнатні квартири з багатьма видами планувань та можливістю перепланування Кожна деталь проекту продумана з урахуванням вимог сучасних людей до комфорту: стильної архітектури, естетики та повноцінного оснащення житла. \"Luxury Square\" відрізняється своєю елегантністю, характерною для активних, успішних, цілеспрямованих людей. Лаундж зона, на даху із газоном та зеленими насадженнями, відкриває мальовничі панорами та дозволяє по-справжньому розслабитися у будь-який час.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 8 500 м²",
+      "Рік проектування: 2016",
+      "Рік реалізації: 2017",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -594,40 +574,42 @@
       "./assets/images/projects/residental/7-luxury/3.jpg",
       "./assets/images/projects/residental/7-luxury/4.jpg",
       "./assets/images/projects/residental/7-luxury/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 29,
+    "id": 27,
     "slug": "skyliner",
     "title": "Skyliner",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/7-skyliner/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/8-skyliner/cover.jpg",
     "description": "Офісний центр класу В+ \"Skyliner\" розташований в центральній частині міста Рівне, зі зручною транспортною інфраструктурою. Налічує 6 поверхів загальною площею понад 12 тис. м². Має три окремі офісні блоки з гнучкою планувальною струтурою. В екстер'єрному рішенні переважає скло та композитні матеріали.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 14 000 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: 2023",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/7-skyliner/1.jpg",
-      "./assets/images/projects/public-buildings/7-skyliner/2.jpg",
-      "./assets/images/projects/public-buildings/7-skyliner/3.jpg"
-    ]
+      "./assets/images/projects/public-buildings/8-skyliner/1.jpg",
+      "./assets/images/projects/public-buildings/8-skyliner/2.jpg",
+      "./assets/images/projects/public-buildings/8-skyliner/3.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 30,
+    "id": 28,
     "slug": "prestige-apartments",
     "title": "Prestige Apartments",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/8-prestige-apartments/cover.jpg",
     "description": "Трактування класичних форм в форматі сучасності дало поштовх створити апартаменти в самому центрі міста. Вигляд 13 поверхів проглядається в міському середовищі чітко. Лаконічність і виваженість форм не дає візуального навантаження. Все вписано гамонійно. Цу місце, де прокидаєшся із задоволенням. Створено єдине ціле з паркінгом, торговими приміщеннями, житлом.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 12 000 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: 2021",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -637,82 +619,86 @@
       "./assets/images/projects/residental/8-prestige-apartments/4.jpg",
       "./assets/images/projects/residental/8-prestige-apartments/5.jpg",
       "./assets/images/projects/residental/8-prestige-apartments/6.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 31,
+    "id": 29,
     "slug": "center-bezpeky",
     "title": "Центр безпеки громадян",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/8-center-bezpeky/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/9-center-bezpeky/cover.jpg",
     "description": "Центр безпеки громадян має в людей асоціюватися з безпекою, довірою та надійністю, тому наша команда архітекторів намагалася моксимально передати ці відчуття через зовнішній вигляд, а саме через архітектуру. Усі центри знаходиться у максимальній доступності для людей, його форми чітко та впевнено поєднуються з оточуючим середовищем. У дизайн ми не додавали нічого зайвого, тому що ця будівля не про яскраве поєднання фарб, а про надійність. Хоча це не заважає їй залишатися гарною, витончею, за рахуноу великих вікон вона ніби каже, що відкрита максимально для будь-якого мешканця міста.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 150 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: -",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Не реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/8-center-bezpeky/1.jpg",
-      "./assets/images/projects/public-buildings/8-center-bezpeky/2.jpg",
-      "./assets/images/projects/public-buildings/8-center-bezpeky/3.jpg",
-      "./assets/images/projects/public-buildings/8-center-bezpeky/4.jpg",
-      "./assets/images/projects/public-buildings/8-center-bezpeky/5.jpg"
-    ]
+      "./assets/images/projects/public-buildings/9-center-bezpeky/1.jpg",
+      "./assets/images/projects/public-buildings/9-center-bezpeky/2.jpg",
+      "./assets/images/projects/public-buildings/9-center-bezpeky/3.jpg",
+      "./assets/images/projects/public-buildings/9-center-bezpeky/4.jpg",
+      "./assets/images/projects/public-buildings/9-center-bezpeky/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 32,
+    "id": 30,
     "slug": "samchuk",
     "title": "Житлові будинки по вул. У. Самчука",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/9-samchuk/cover.jpg",
     "description": "Комплекс Уласа Самчука має чотири будинки сімейного типу та всього на чотири поверхи з терасами, це дасть змогу вам відпочивати від метушливого міста, насолоджуватися сімейним затишком та теплом родини. В питаннях екологічності та безпеки будматеріалів не може бути ніяких компромісів - це підтверджується регулярними незалежними експертизами які доступні кожному. Коли набрид одноманітний дизайн, коли хочеться відчути увагу до деталей і оточити себе красою, то це все про житловий комплекс Уласа Самчука.",
     "details": [
-      "Площа: 15 000 м²",
+      "Площа: 4 500 м²",
+      "Рік проектування: 2021",
       "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/residental/9-samchuk/1.jpg",
       "./assets/images/projects/residental/9-samchuk/2.jpg",
       "./assets/images/projects/residental/9-samchuk/3.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 33,
+    "id": 31,
     "slug": "office-stograd",
     "title": "Офіс Cтоград",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/9-office-stograd/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/10-office-stograd/cover.jpg",
     "description": "Архітектура офісного центру \"Cтоград\" по вулиці Уласа Самчука просто дивовижна, лаконічність і наявність великих просторів - це те, чим можна охарактеризувати її. Споруда вдало поєднує гармонію, геометричні форми, багато свтіла, що забезпечує велику кількість віконних отворів.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 2 000 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: 2021",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/9-office-stograd/1.jpg",
-      "./assets/images/projects/public-buildings/9-office-stograd/2.jpg",
-      "./assets/images/projects/public-buildings/9-office-stograd/3.jpg"
-    ]
+      "./assets/images/projects/public-buildings/10-office-stograd/1.jpg",
+      "./assets/images/projects/public-buildings/10-office-stograd/2.jpg",
+      "./assets/images/projects/public-buildings/10-office-stograd/3.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 34,
+    "id": 32,
     "slug": "schevchenko",
     "title": "Шевченка",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/10-schevchenko/cover.jpg",
     "description": "Житловий комплекс \"Шевченка\" - це фактично будинок кулбного типу. Він розташований у самому центрі міста, його форми та об'єми розрізають навколишнє середовище, а у мешканців будинку є унікальна можливість жити практично в центрі мегаполісу, і в той же час дихати свіжим повітрям, займатися спортом та прогулюватися тінистими алеями!",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 3 800 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: 2021",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -721,42 +707,44 @@
       "./assets/images/projects/residental/10-schevchenko/3.jpg",
       "./assets/images/projects/residental/10-schevchenko/4.jpg",
       "./assets/images/projects/residental/10-schevchenko/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 35,
+    "id": 33,
     "slug": "office-center-beton",
     "title": "Офіс центр \"Beton\"",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/10-office-center-beton/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/11-office-center-beton/cover.jpg",
     "description": "Офісний центр \"Beton\" - унікальний п'ятиповерховий архітектурний комплекс спроектований командою наших архітекторів. Скляний фасад, високі стелі та сучасний дизайн відповідають високому рівню будівництва. Гарне поєднання вітражних вікон та бетонного перекриття - ось ідея надсучасного бізнес центру.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 3 200 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: -",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Не реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/10-office-center-beton/1.jpg",
-      "./assets/images/projects/public-buildings/10-office-center-beton/2.jpg",
-      "./assets/images/projects/public-buildings/10-office-center-beton/3.jpg",
-      "./assets/images/projects/public-buildings/10-office-center-beton/4.jpg",
-      "./assets/images/projects/public-buildings/10-office-center-beton/5.jpg"
-    ]
+      "./assets/images/projects/public-buildings/11-office-center-beton/1.jpg",
+      "./assets/images/projects/public-buildings/11-office-center-beton/2.jpg",
+      "./assets/images/projects/public-buildings/11-office-center-beton/3.jpg",
+      "./assets/images/projects/public-buildings/11-office-center-beton/4.jpg",
+      "./assets/images/projects/public-buildings/11-office-center-beton/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 36,
+    "id": 34,
     "slug": "simeinyi",
     "title": "Сімейний",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/11-simeinyi/cover.jpg",
     "description": "Житловий комплекс \"Сімейний\"  - це максимально \"сімейний\" будинок. Зручне планування, великі квартири, панорамні вікна. У пішохідній доступності ТРЦ Екватор, зупинки, ТЦ Метро, ТЦ Епіцентр. Для автомобілістів спроектована закрита наземна автостоянка. Місце розташування житлового комплексу знаходиться в безпосередній близькості до центру міста, але наявність величезної паркової зони дозволяє жити в природній оазі та насолоджуватися свіжим, чистим повітрям та співом птахів!",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 10 415 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: 2022",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -765,42 +753,44 @@
       "./assets/images/projects/residental/11-simeinyi/3.jpg",
       "./assets/images/projects/residental/11-simeinyi/4.jpg",
       "./assets/images/projects/residental/11-simeinyi/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 37,
+    "id": 35,
     "slug": "archive-lviv",
     "title": "Архів у м. Львів",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/11-archive-lviv/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/12-archive-lviv/cover.jpg",
     "description": "Проект позиціонує розширення уявлення про будівлю архіву, як закритого вузькопрофільного закладу, а розкриває його в межах існування власного окремого міського простору. Концепція проекту поєднує в одному об'ємі основні складові будівлі. Перший рівень включає приватний архів і набір приміщень для обслуговування. Другий рівень займає приміщення адміністрації, трудовий і міський архіви, громадський центр і внутрішній локальний двір. Третій рівень - великий блок міського архіву і службові приміщення. На території запроектовано автомобільну стоянку для відвідувачів і службового користування, також вело-парковку і громадський відкритий простір.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
-      "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Площа території: 6 500 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: -",
+      "Локація: м. Львівська",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/11-archive-lviv/1.jpg",
-      "./assets/images/projects/public-buildings/11-archive-lviv/2.jpg",
-      "./assets/images/projects/public-buildings/11-archive-lviv/3.jpg",
-      "./assets/images/projects/public-buildings/11-archive-lviv/4.jpg",
-      "./assets/images/projects/public-buildings/11-archive-lviv/5.jpg"
-    ]
+      "./assets/images/projects/public-buildings/12-archive-lviv/1.jpg",
+      "./assets/images/projects/public-buildings/12-archive-lviv/2.jpg",
+      "./assets/images/projects/public-buildings/12-archive-lviv/3.jpg",
+      "./assets/images/projects/public-buildings/12-archive-lviv/4.jpg",
+      "./assets/images/projects/public-buildings/12-archive-lviv/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 38,
+    "id": 36,
     "slug": "rivnenska",
     "title": "Рівненська",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/12-rivnenska/cover.jpg",
     "description": "Концепт забудови житлового комплексу \"Рівненська\" - це окраса міста. Гарні стримані кольори фасаду плавно поєднуються  навколишнім середовищем. Його архітектура ніжна, стримана, вона ніби огортає тебе і там ти дійсно відчуваєш домашній затишок.",
     "details": [
-      "Площа: 15 000 м²",
+      "Площа: 16 775 м²",
+      "Рік проектування: 2021",
       "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Локація: м. Луцьк",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -809,43 +799,45 @@
       "./assets/images/projects/residental/12-rivnenska/3.jpg",
       "./assets/images/projects/residental/12-rivnenska/4.jpg",
       "./assets/images/projects/residental/12-rivnenska/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 39,
+    "id": 37,
     "slug": "parking-renome",
     "title": "Паркінг РЕНОМЕ",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/12-parking-renome/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/13-parking-renome/cover.jpg",
     "description": "Основним завданням проекту є вирішення проблеми паркування прилеглого житлововго комплексу \"Спектрум\", а також розширення офісу компанії Реноме. Будівля 4 поверхова. 1-3 поверхи - паркінг, 4-й поверх - офіс типу опен-спейс.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 4 500 м²",
+      "Рік проектування: 2017",
+      "Рік реалізації: -",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Не реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/12-parking-renome/1.jpg",
-      "./assets/images/projects/public-buildings/12-parking-renome/2.jpg",
-      "./assets/images/projects/public-buildings/12-parking-renome/3.jpg",
-      "./assets/images/projects/public-buildings/12-parking-renome/4.jpg",
-      "./assets/images/projects/public-buildings/12-parking-renome/5.jpg"
-    ]
+      "./assets/images/projects/public-buildings/13-parking-renome/1.jpg",
+      "./assets/images/projects/public-buildings/13-parking-renome/2.jpg",
+      "./assets/images/projects/public-buildings/13-parking-renome/3.jpg",
+      "./assets/images/projects/public-buildings/13-parking-renome/4.jpg",
+      "./assets/images/projects/public-buildings/13-parking-renome/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 40,
+    "id": 38,
     "slug": "mlynivska",
     "title": "Млинівська",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/13-mlynivska/cover.jpg",
     "description": "Житловий комплекс \"Млинівська\" - це простір сучасних самодостатніх людей. З різноматнітними будинками які височать в небо, уособлюючи силу, динаміку, свободу та незалежність. Квартал розташований в західній частині міста Рівне, на земельній ділянці орієнтовною 4 га. Площа забудови комплесу 0,9 га. Поверховість коливається від 2 до 9 поверхів. На території розташовані: торгівельні та розважальні комплекси, квартал житлової забудови площею понад 35 тис. м², налічує понад 503 квартири, комплекс парковок, паркінгів та індивідуальних гаражів, заклад дошкільної освіти, що забезпечує потреби жителів. Особливість кварталу є реалізація концепції двір без авто. Об'ємно-просторове та планувальне рішення - це сучасна європейська архітектура мінімалізму в поєднанні з функцією та потребою жителя.",
     "details": [
-      "Площа: 9 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 45 000 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/residental/13-mlynivska/1.jpg",
@@ -853,83 +845,64 @@
       "./assets/images/projects/residental/13-mlynivska/3.jpg",
       "./assets/images/projects/residental/13-mlynivska/4.jpg",
       "./assets/images/projects/residental/13-mlynivska/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
+  },
+  {
+    "id": 39,
+    "slug": "office-kopernyk",
+    "title": "Офісний центр по вул. Коперника",
+    "image": "./assets/images/projects/public-buildings/14-office-kopernyk/cover.jpg",
+    "description": "Бізнес центр у місті Луцьк - це багатофункціональний комплекс премуім-класу. Розкішне природне оточення біля центрального парку культури і відпочику імені Лесі Українки. Престижне сусідство, цікава архітектура, високоякісний сервіс - це основні критерії життя у стилі преміум.",
+    "details": [
+      "Площа території: 1 000 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/14-office-kopernyk/1.jpg",
+      "./assets/images/projects/public-buildings/14-office-kopernyk/2.jpg",
+      "./assets/images/projects/public-buildings/14-office-kopernyk/3.jpg",
+      "./assets/images/projects/public-buildings/14-office-kopernyk/4.jpg",
+      "./assets/images/projects/public-buildings/14-office-kopernyk/5.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
+  },
+  {
+    "id": 40,
+    "slug": "baza-kozlyn",
+    "title": "База відпочинку у с. Козлин",
+    "image": "./assets/images/projects/public-buildings/15-baza-kozlyn/cover.jpg",
+    "description": "У селі Козлин, яке розташоване в 15-ти хвилинах від міста Рівного, славиться надзвичайно красивими природніми краєвидами, каскадом озер, річка Горинь, сосновим лісом. Це ідеальне місце активного відпочинку для людей, що цінують свій час. Комплекс розташований на березі річки Горинь, на території запроектовано готельно-ресторанний комплекс, індивідуальні будинки, баня, бесідки та пірс.",
+    "details": [
+      "Площа території: 1 000 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: -",
+      "Локація: м. Рівне",
+      "Статус: Не реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/public-buildings/15-baza-kozlyn/1.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
     "id": 41,
-    "slug": "office-kopernyk",
-    "title": "Офісний центр по вул. Коперника",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/13-office-kopernyk/cover.jpg",
-    "description": "Бізнес центр у місті Луцьк - це багатофункціональний комплекс премуім-класу. Розкішне природне оточення біля центрального парку культури і відпочику імені Лесі Українки. Престижне сусідство, цікава архітектура, високоякісний сервіс - це основні критерії життя у стилі преміум.",
-    "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
-      "Локація: м. Рівне",
-      "Статус: Проектування"
-    ],
-    "gallery": [
-      "./assets/images/projects/public-buildings/13-office-kopernyk/1.jpg",
-      "./assets/images/projects/public-buildings/13-office-kopernyk/2.jpg",
-      "./assets/images/projects/public-buildings/13-office-kopernyk/3.jpg",
-      "./assets/images/projects/public-buildings/13-office-kopernyk/4.jpg",
-      "./assets/images/projects/public-buildings/13-office-kopernyk/5.jpg"
-    ]
-  },
-  {
-    "id": 42,
-    "slug": "supernova2",
-    "title": "Супернова",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
-    "image": "./assets/images/projects/residental/14-supernova/cover.jpg",
-    "description": "ЖК \"Supernova\" розташований в районі вулиць Львівської та Потебні. Поруч - ботанічний сад та мальовничі береги Стиру, а до центру міста - менше двох кілометрів. Планування, творча робота дизайнерів, новий підхід до вибору локацій та реально продуманої інфраструктури - це основні наші переваги. А панорама вас зачарує, адже забудова межує з ботанічним садом, тому ви зможете насолоджуватися одним із найкращих у місті краєвидів. Окрім того, таке сусідство позитивно впливає на екологічні показники та дає низький рівень стороннього шуму в квартирах. Тут спокійно та тихо.",
-    "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
-    ],
-    "gallery": [
-      "./assets/images/projects/residental/14-supernova/1.jpg",
-      "./assets/images/projects/residental/14-supernova/2.jpg",
-      "./assets/images/projects/residental/14-supernova/3.jpg",
-      "./assets/images/projects/residental/14-supernova/4.jpg",
-      "./assets/images/projects/residental/14-supernova/5.jpg"
-    ]
-  },
-  {
-    "id": 43,
-    "slug": "baza-kozlyn",
-    "title": "База відпочинку у с. Козлин",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/14-baza-kozlyn/cover.jpg",
-    "description": "У селі Козлин, яке розташоване в 15-ти хвилинах від міста Рівного, славиться надзвичайно красивими природніми краєвидами, каскадом озер, річка Горинь, сосновим лісом. Це ідеальне місце активного відпочинку для людей, що цінують свій час. Комплекс розташований на березі річки Горинь, на території запроектовано готельно-ресторанний комплекс, індивідуальні будинки, баня, бесідки та пірс.",
-    "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
-      "Локація: м. Рівне",
-      "Статус: Проектування"
-    ],
-    "gallery": [
-      "./assets/images/projects/public-buildings/14-baza-kozlyn/1.jpg"
-    ]
-  },
-  {
-    "id": 44,
     "slug": "family-city",
     "title": "Family City",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/15-family-city/cover.jpg",
     "description": "Сучасна, але класична архітектура, ергономічні планування квартир, закрита територія під охороною, панорамні вікновиди та автономне опалення газовим котлом, сучасні дитячі та спортивні майданчики. Одним словом - комфортний простір для проживання сім'ї. Назва кварталу йде саме від цього, \"Family City\" - \"сімейне місто\". Це як місто в місті, але нове і комфортне.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 53 986 м²",
+      "Рік проектування: 2021",
+      "Рік реалізації: 2026",
+      "Локація: м. Рівне",
+      "Статус: В процесі реалізації"
     ],
     "gallery": [
       "./assets/images/projects/residental/15-family-city/1.jpg",
@@ -937,39 +910,41 @@
       "./assets/images/projects/residental/15-family-city/3.jpg",
       "./assets/images/projects/residental/15-family-city/4.jpg",
       "./assets/images/projects/residental/15-family-city/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 45,
+    "id": 42,
     "slug": "commercial-kulyka",
     "title": "Комерція по вул. Кулика і Гудачека",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/15-commercial-kulyka/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/16-commercial-kulyka/cover.jpg",
     "description": "Це комерційний проект, який знаходиться у дуже зручному місці. Будівля простої форми та простих кольорів, тому дуже гарно вливається в навколишнє середовище, але за рахунок акцентів, а саме червоного обрамлення, добре вирізняється.",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 2 898 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: 2021",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/15-commercial-kulyka/1.jpg"
-    ]
+      "./assets/images/projects/public-buildings/16-commercial-kulyka/1.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 46,
+    "id": 43,
     "slug": "tarasove",
     "title": "Тарасове",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/16-tarasove/cover.jpg",
     "description": "Онсовним завданням у житлового комплексу \"Тарасове\" було єднання людини з природою. 4-х поверховий житловий комплекс, що розташований в безпосередній близькості до міста Луцьк, покликаний забезпечити комфорт, затишок та тепло заміського будинку в поєєднанні з перевагами життя в місті. Особливістю проекту є: двори без машин, відсутність загазованості міського середовища, сучасна європейська архітектура.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 12 488 м²",
+      "Рік проектування: 2020",
+      "Рік реалізації: -",
+      "Локація: м. Луцьк",
+      "Статус: Не реалізовано"
     ],
     "gallery": [
       "./assets/images/projects/residental/16-tarasove/1.jpg",
@@ -977,38 +952,40 @@
       "./assets/images/projects/residental/16-tarasove/3.jpg",
       "./assets/images/projects/residental/16-tarasove/4.jpg",
       "./assets/images/projects/residental/16-tarasove/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 47,
+    "id": 44,
     "slug": "restaurant-okolytsia",
     "title": "Ресторан \"Околиця\"",
-    "category": "public_buildings",
-    "categoryName": "Громадські будівлі",
-    "image": "./assets/images/projects/public-buildings/16-restaurant-okolytsia/cover.jpg",
+    "image": "./assets/images/projects/public-buildings/17-restaurant-okolytsia/cover.jpg",
     "description": "Концепція забудови нового мікрорайону, що включає житлові будинки, офісні приміщення, торгові площі та рекреаційні зони. Проект спрямований на створення комфортного міського середовища за принципом \"місто в місті\".",
     "details": [
-      "Площа території: 5 га",
-      "Рік розробки: 2023",
+      "Площа території: 560 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: 2018",
       "Локація: м. Рівне",
-      "Статус: Проектування"
+      "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/public-buildings/16-restaurant-okolytsia/1.jpg"
-    ]
+      "./assets/images/projects/public-buildings/17-restaurant-okolytsia/1.jpg"
+    ],
+    "categories": ["public_buildings"],
+    "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 48,
+    "id": 45,
     "slug": "dream-town",
     "title": "Dream Town",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/17-dream-town/cover.jpg",
     "description": "Спокійна колористика рішень і функціональна насиченість секцій створює нові можливості житлового простору в місті. Продумані планування, комфортний двір і цілісна структура поєднання житлових, нежитлових приміщень насичує саме цю частину міста. В комплексі наявні паркінг, дитячий навчальний заклад і ряд нових рішень благоустрою. Місце затишку і мрій.",
     "details": [
-      "Площа: 15 000 м²",
+      "Площа: 68 744 м²",
+      "Рік проектування: 2018",
       "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Локація: м. Луцьк",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -1017,20 +994,21 @@
       "./assets/images/projects/residental/17-dream-town/3.jpg",
       "./assets/images/projects/residental/17-dream-town/4.jpg",
       "./assets/images/projects/residental/17-dream-town/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 49,
+    "id": 46,
     "slug": "green-ville",
     "title": "Green Ville",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/18-green-ville/cover.jpg",
     "description": "\"Green Ville\" - це котеджне містечко, яке знаходиться у місті Рівне. Кожен будиночок заворожує своєю архітектурою, величезні балкони, тераси, великі планування кімнат, дитячі майданчики, безпечні вулички... Переваги цього району нескінченні. Дерево, бетон та скло - соь головний мотив забудов, а великі зелені насадження ніби огортають кожен будиночок.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 4 320 м²",
+      "Рік проектування: 2016",
+      "Рік реалізації: 2018",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -1039,20 +1017,21 @@
       "./assets/images/projects/residental/18-green-ville/3.jpg",
       "./assets/images/projects/residental/18-green-ville/4.jpg",
       "./assets/images/projects/residental/18-green-ville/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 50,
+    "id": 47,
     "slug": "hill-house",
     "title": "Hill House",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/19-hill-house/cover.jpg",
     "description": "Житловий комплекс \"Hill House\" - це дім, в якому хочеться жити та творити майбутнє, де відчуваєш себе в безпеці і спокійний за тих кого любиш. Дім де хочеться розмальовувати власне життя яскравими фарбами. Цілий світ навколо твоєї оселі: захопливий і різноманітний. Будинок має планування на будь-який смак, однокімнатні, двокімнатні та трикімнатні квартири.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 2 700 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: 2019",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -1061,20 +1040,21 @@
       "./assets/images/projects/residental/19-hill-house/3.jpg",
       "./assets/images/projects/residental/19-hill-house/4.jpg",
       "./assets/images/projects/residental/19-hill-house/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 51,
+    "id": 48,
     "slug": "gruschevskii",
     "title": "Житловий будинок на вул. Грушевського",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/20-gruschevskii/cover.jpg",
     "description": "Триповерховий житловий будинок розташований у дуже зручному місці, з хорошою транспортною розв'язкою та інфраструктурою. Поруч зупинки, магазини, школи, парки та бізнес центри.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 1 800 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: 2019",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -1083,20 +1063,21 @@
       "./assets/images/projects/residental/20-gruschevskii/3.jpg",
       "./assets/images/projects/residental/20-gruschevskii/4.jpg",
       "./assets/images/projects/residental/20-gruschevskii/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 52,
+    "id": 49,
     "slug": "sunny-town",
     "title": "Sunny Town",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/21-sunny-town/cover.jpg",
     "description": "Мрієте про власне житло? Тоді житловий комплекс \"Sunny Town\" дає вам великий вибір різноманітних квартир з плануванням на будь-який смак. Там на вас не будуть \"давити\" хмарочоси, ви зможете набрати повні легені свіжого повітря, прислухатися до сміху дітей та щебету птахів - це відчуття нового формату життя. Варто відмітити чудову транспортну розв'язку, яка дозволяє досить швидко дістатися до центру міста.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
+      "Площа: 30 000 м²",
+      "Рік проектування: 2016",
+      "Рік реалізації: 2018",
+      "Локація: м. Рівне",
       "Статус: Реалізовано"
     ],
     "gallery": [
@@ -1105,21 +1086,22 @@
       "./assets/images/projects/residental/21-sunny-town/3.jpg",
       "./assets/images/projects/residental/21-sunny-town/4.jpg",
       "./assets/images/projects/residental/21-sunny-town/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 53,
+    "id": 50,
     "slug": "vidrodzhennya",
     "title": "Відродження",
-    "category": "residential_complexes",
-    "categoryName": "Житлові комплекси",
     "image": "./assets/images/projects/residental/22-vidrodzhennya/cover.jpg",
     "description": "У житловому комплексі \"Відродження\" передбачено багатоповерхову житлову забудову з інфраструктурними об'єктами та підземним паркінгом. Особливістю комплексу є об'ємно-просторове рішення, зокрема динаміка екстер'єру що поєднується з функціональними планувальними рішеннями. Комфорт не обмежується стінами квартири. Він - у кожному метрі простору, що вас оточує: від зовнішнього архітектурного стилю - до внутрішніх функціональних рішень.",
     "details": [
-      "Площа: 15 000 м²",
-      "Рік реалізації: 2023",
-      "Локація: м. Львів",
-      "Статус: Реалізовано"
+      "Площа: 12 000 м²",
+      "Рік проектування: 2018",
+      "Рік реалізації: -",
+      "Локація: м. Луцьк",
+      "Статус: Концепція"
     ],
     "gallery": [
       "./assets/images/projects/residental/22-vidrodzhennya/1.jpg",
@@ -1127,6 +1109,8 @@
       "./assets/images/projects/residental/22-vidrodzhennya/3.jpg",
       "./assets/images/projects/residental/22-vidrodzhennya/4.jpg",
       "./assets/images/projects/residental/22-vidrodzhennya/5.jpg"
-    ]
+    ],
+    "categories": ["residential_complexes"],
+    "categoryNames": ["Житлові комплекси"]
   }
 ]

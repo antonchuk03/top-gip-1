@@ -139,6 +139,8 @@ document.addEventListener("DOMContentLoaded", () => {
       .join("");
 
     // Render content
+    const categoriesHtml = project.categoryNames.join(", ");
+
     contentContainer.innerHTML = `
             <div class="project-hero" data-aos="fade-in">
                 <div class="hero-image-container">
@@ -160,7 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 <div class="hero-bottom-right">
                     <div class="hero-category-label">Категорія</div>
-                    <div class="hero-category-name">${project.categoryName}</div>
+                    <div class="hero-category-name">${categoriesHtml}</div>
                 </div>
             </div>
 

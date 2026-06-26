@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Try different paths for projects.json to ensure compatibility with local servers
   const jsonPaths = ["./js/projects.json", "js/projects.json"];
 
-  async function loadProjects() { 
+  async function loadProjects() {
     let lastError = null;
 
     for (const path of jsonPaths) {
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
         renderProjects(projectsData, urlFilter);
         updateActiveFilter(urlFilter);
         attachFilterEvents(projectsData);
-        return; // Success!  
+        return; // Success!
       } catch (error) {
         console.warn(`Не вдалося завантажити з ${path}:`, error);
         lastError = error;
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const filteredProjects =
       filter === "all"
         ? projectsData
-        : projectsData.filter((project) => project.category === filter);
+        : projectsData.filter((project) => project.categories.includes(filter));
 
     if (filteredProjects.length === 0) {
       projectsContainer.innerHTML =
@@ -62,10 +62,12 @@ document.addEventListener("DOMContentLoaded", () => {
       projectCard.style.textDecoration = "none";
       projectCard.setAttribute("data-aos", "fade-up");
 
+      const displayCategoryName = project.categoryNames.join(", ");
+
       projectCard.innerHTML = `
                 <img src="${project.image}" alt="${project.title}">
                 <div class="project-card-overlay">
-                    <div class="project-category">${project.categoryName}</div>
+                    <div class="project-category">${displayCategoryName}</div>
                     <div class="project-title">${project.title}</div>
                 </div>
             `;
