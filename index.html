@@ -12,17 +12,44 @@
       href="./assets/images/icons/favicon.png"
     />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <!-- Play -->
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap"
       rel="stylesheet"
-    />
+    /> -->
 
-    <!-- Swiper CSS -->
+    <!-- Overpass Mono -->
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
+      href="https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&display=swap"
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    /> -->
+
+    <!-- Manrope -->
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+      rel="stylesheet"
+    /> -->
+
+    <!-- Inter -->
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    /> -->
+
+    <!-- Montserrat -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
     />
 
     <!-- AOS CSS -->
@@ -36,7 +63,7 @@
     <main>
       <section id="home" class="section home">
         <video autoplay muted loop playsinline id="bg-video" preload="none">
-          <source src="skyliner.mp4" type="video/mp4" />
+          <source src="smth.mp4" type="video/mp4" />
           Ваш браузер не підтримує відео-тег.
         </video>
         <div class="content" data-aos="fade-up">
@@ -46,20 +73,38 @@
             alt="TG big logo"
           />
           <div class="small-content">
-            <h1 class="main-title" data-aos="fade-up">
-              <!-- TOP GIP -->
-              <!-- ТОВ "Top Gip" - інженерні рішення для промислового та цивільного
-            будівництва -->
+            <h1 class="main-title" data-aos="fade-up" data-aos-delay="200">
+              Комплексне проектування, інженерний супровід та технічний
+              консалтинг вашого будівництва
             </h1>
-            <h4 data-aos="fade-up" data-aos-delay="700">
-              Ми спеціалізуємося на комплексному проектуванні, інженерному
-              супроводі та технічному консалтингу. Реалізуємо проєкти будь-якої
-              складності - від складських приміщень до логістичних хабів і
-              житлових комплексів
+            <h4 data-aos="fade-up" data-aos-delay="300">
+              ТОВ "Top Gip" - надійний інжиніринговий партнер із 10-річним
+              досвідом. Реалізуємо проєкти будь-якої складності із застосуванням
+              ВІМ-технологій - від складських приміщень і логістичних хабів до
+              житлових та громадських комплексів.
             </h4>
-            <div data-aos="fade-up" data-aos-delay="900">
+            <div class="hero-buttons" data-aos="fade-up" data-aos-delay="400">
               <a href="contact.html" class="button">
                 Зв'яжіться з нами
+                <svg
+                  class="button-arrow"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-arrow-right ml-2 h-4 w-4 transition-transform group-hover:translate-x-1"
+                >
+                  <path d="M5 12h14"></path>
+                  <path d="m12 5 7 7-7 7"></path>
+                </svg>
+              </a>
+              <a href="projects.html" class="button">
+                Переглянути проєкти
                 <svg
                   class="button-arrow"
                   xmlns="http://www.w3.org/2000/svg"
@@ -81,13 +126,13 @@
           </div>
         </div>
       </section>
-      <section id="about" class="section" data-aos="fade-up">
-        <h2 data-aos="fade-up" data-aos-delay="100">Хто ми? (Про нас)</h2>
+      <section id="about" class="section about" data-aos="fade-up">
+        <h2 data-aos="fade-up" data-aos-delay="100">Хто ми?</h2>
         <div class="about-container">
           <div
             class="about-description"
             data-aos="fade-right"
-            data-aos-delay="200"
+            data-aos-delay="100"
           >
             <p>
               ТОВ "Top Gip" - українська інжинірингова компанія, яка з 2015 року
@@ -98,15 +143,15 @@
             </p>
           </div>
           <div class="about-numbers">
-            <div class="number-card" data-aos="zoom-in" data-aos-delay="200">
+            <div class="number-card" data-aos="zoom-in" data-aos-delay="100">
               <h3>10+</h3>
               <span>років досвіду</span>
             </div>
-            <div class="number-card" data-aos="zoom-in" data-aos-delay="400">
+            <div class="number-card" data-aos="zoom-in" data-aos-delay="300">
               <h3>30+</h3>
               <span>професіоналів</span>
             </div>
-            <div class="number-card" data-aos="zoom-in" data-aos-delay="600">
+            <div class="number-card" data-aos="zoom-in" data-aos-delay="500">
               <h3>200+</h3>
               <span>реалізованих проектів</span>
             </div>
@@ -331,335 +376,14 @@
           </svg>
         </a>
       </section>
-      <section id="services" class="section">
-        <h2 data-aos="fade-up">Наші послуги</h2>
-        <div
-          class="swiper services-slider"
-          data-aos="fade-up"
-          data-aos-delay="100"
-        >
-          <div class="swiper-wrapper">
-            <div
-              class="swiper-slide service-card"
-              data-aos="zoom-in-up"
-              data-aos-delay="100"
-            >
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" />
-                <rect width="20" height="14" x="2" y="6" rx="2" />
-              </svg>
-              <p>Концептуальне проектування</p>
-            </div>
 
-            <div
-              class="swiper-slide service-card"
-              data-aos="zoom-in-up"
-              data-aos-delay="200"
-            >
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <rect width="8" height="4" x="8" y="2" rx="1" ry="1" />
-                <path
-                  d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"
-                />
-                <path d="M12 11h4" />
-                <path d="M12 16h4" />
-                <path d="M8 11h.01" />
-                <path d="M8 16h.01" />
-              </svg>
-              <p>Передпроектні роботи</p>
-            </div>
-
-            <div
-              class="swiper-slide service-card"
-              data-aos="zoom-in-up"
-              data-aos-delay="300"
-            >
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M20 9V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v3" />
-                <path
-                  d="M2 16a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5a2 2 0 0 0-4 0v1.5a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5V11a2 2 0 0 0-4 0z"
-                />
-                <path d="M4 18v2" />
-                <path d="M20 18v2" />
-                <path d="M12 4v9" />
-              </svg>
-              <p>Розробка інтер'єрів</p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path
-                  d="M13 7 8.7 2.7a2.41 2.41 0 0 0-3.4 0L2.7 5.3a2.41 2.41 0 0 0 0 3.4L7 13"
-                />
-                <path d="m8 6 2-2" />
-                <path d="m18 16 2-2" />
-                <path
-                  d="m17 11 4.3 4.3c.94.94.94 2.46 0 3.4l-2.6 2.6c-.94.94-2.46.94-3.4 0L11 17"
-                />
-                <path
-                  d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"
-                />
-                <path d="m15 5 4 4" />
-              </svg>
-              <p>Робота ескізів та намірів забудови</p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path
-                  d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"
-                />
-                <path
-                  d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"
-                />
-                <path
-                  d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"
-                />
-              </svg>
-              <p>Комплексне проектування</p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <circle cx="12" cy="12" r="1" />
-                <path
-                  d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"
-                />
-                <path
-                  d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"
-                />
-              </svg>
-              <p>
-                Наукові розробки в частині моделювання житлового циклу будівель
-                та споруд
-              </p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M15 13a3 3 0 1 0-6 0" />
-                <path
-                  d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"
-                />
-                <circle cx="12" cy="8" r="2" />
-              </svg>
-              <p>Збір вихідних даних та супровід</p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M12 16h.01" />
-                <path d="M16 16h.01" />
-                <path
-                  d="M3 19a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8.5a.5.5 0 0 0-.769-.422l-4.462 2.844A.5.5 0 0 1 15 10.5v-2a.5.5 0 0 0-.769-.422L9.77 10.922A.5.5 0 0 1 9 10.5V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2z"
-                />
-                <path d="M8 16h.01" />
-              </svg>
-              <p>
-                Технологічне проектування (зерноприймальні комплекси та
-                промислові споруди)
-              </p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path
-                  d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"
-                />
-                <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12" />
-              </svg>
-              <p>Екологія</p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="m11 7-3 5h4l-3 5" />
-                <path d="M14.856 6H16a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.935" />
-                <path d="M22 14v-4" />
-                <path d="M5.14 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2.936" />
-              </svg>
-              <p>Робота з енергозбереженням</p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M14 2v4a2 2 0 0 0 2 2h4" />
-                <path d="m2.305 15.53.923-.382" />
-                <path d="m3.228 12.852-.924-.383" />
-                <path
-                  d="M4.677 21.5a2 2 0 0 0 1.313.5H18a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v2.5"
-                />
-                <path d="m4.852 11.228-.383-.923" />
-                <path d="m4.852 16.772-.383.924" />
-                <path d="m7.148 11.228.383-.923" />
-                <path d="m7.53 17.696-.382-.924" />
-                <path d="m8.772 12.852.923-.383" />
-                <path d="m8.772 15.148.923.383" />
-                <circle cx="6" cy="14" r="3" />
-              </svg>
-              <p>
-                Розробка конструктивних рішень та оптимізація матеріалу якості
-              </p>
-            </div>
-
-            <div class="swiper-slide service-card">
-              <svg
-                class="service-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M14.5 22H18a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4" />
-                <path d="M14 2v4a2 2 0 0 0 2 2h4" />
-                <path
-                  d="M3 13.1a2 2 0 0 0-1 1.76v3.24a2 2 0 0 0 .97 1.78L6 21.7a2 2 0 0 0 2.03.01L11 19.9a2 2 0 0 0 1-1.76V14.9a2 2 0 0 0-.97-1.78L8 11.3a2 2 0 0 0-2.03-.01Z"
-                />
-                <path d="M7 17v5" />
-                <path d="M11.7 14.2 7 17l-4.7-2.8" />
-              </svg>
-              <p>Можливість розробки ВІМ технологій</p>
-            </div>
-          </div>
-
-          <div class="swiper-button-next"></div>
-          <div class="swiper-button-prev"></div>
-          <div class="swiper-pagination"></div>
-        </div>
-      </section>
       <section id="description" class="section" data-aos="fade-up">
         <div class="description-head">
           <h2 class="description-title" data-aos="fade-up" delay="200">
             Як ми працюємо: поетапний підхід від ідеї до реалізації
           </h2>
           <h4 class="description-small-title" data-aos="fade-up" delay="400">
-            У компанії ТОВ "ТопГІП" ми впровадили системний та прозорий процес
+            У компанії ТОВ "Top Gip" ми впровадили системний та прозорий процес
             роботи над кожним проєктом. Наша мета — забезпечити замовнику
             ефективний результат без зайвих ризиків, витрат і затримок.
           </h4>
@@ -826,12 +550,9 @@
       </section>
     </main>
 
-    <div id="footer-placeholder"></div> 
+    <div id="footer-placeholder"></div>
 
     <script src="./js/load-components.js"></script>
-
-    <!-- Swiper JS -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
     <script src="./js/mail.js"></script>
     <script src="./js/main-page-projects.js"></script>

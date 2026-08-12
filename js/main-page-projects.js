@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
         window.location.href = `projects.html?filter=${category}`;
       }
     });
-    
+
     item.addEventListener("click", (e) => {
       if (window.matchMedia("(pointer: fine)").matches) {
         const category = item.getAttribute("data-category");

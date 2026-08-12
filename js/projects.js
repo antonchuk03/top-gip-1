@@ -44,6 +44,14 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderProjects(projectsData, filter) {
     projectsContainer.innerHTML = "";
 
+    const escapeHtml = (value) =>
+      String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+
     const filteredProjects =
       filter === "all"
         ? projectsData
@@ -64,11 +72,29 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const displayCategoryName = project.categoryNames.join(", ");
 
+      const detailsHtml = Array.isArray(project.details)
+        ? `<ul class="project-details">${project.details
+            .map((line) => {
+              const str = String(line ?? "");
+              const idx = str.indexOf(":");
+              if (idx === -1) {
+                return `<li>${escapeHtml(str)}</li>`;
+              }
+              const label = str.slice(0, idx + 1);
+              const value = str.slice(idx + 1).trim();
+              return `<li><span class="detail-label">${escapeHtml(label)}</span> <span class="detail-value">${escapeHtml(value)}</span></li>`;
+            })
+            .join("")}</ul>`
+        : project.details
+          ? `<div class="project-details">${escapeHtml(project.details)}</div>`
+          : "";
+
       projectCard.innerHTML = `
                 <img src="${project.image}" alt="${project.title}">
                 <div class="project-card-overlay">
                     <div class="project-category">${displayCategoryName}</div>
                     <div class="project-title">${project.title}</div>
+                    ${detailsHtml}
                 </div>
             `;
 

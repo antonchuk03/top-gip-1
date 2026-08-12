@@ -1,9 +1,22 @@
 .contact-page {
-  background-color: #293135;
-  color: #ddd;
+  position: relative;
   padding: 80px 20px;
+  color: #ddd;
   max-width: none;
   min-height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../assets/images/pages/contact/contact-us.png");
+}
+
+.contact-page::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .contact-page-content {
@@ -12,7 +25,7 @@
 }
 
 .contact-page-content h2 {
-  margin: 40px 0 20px; /*40 0 0*/
+  margin: 40px 0 20px;
 }
 
 .contact-content-main {
@@ -38,7 +51,7 @@
 .sector {
   display: flex;
   gap: 20px;
-  margin: 20px 0; /*10*/
+  margin: 20px 0;
 }
 
 .sector-info a {
@@ -50,7 +63,7 @@
 }
 
 h5 {
-  font-size: 20px; /*30*/
+  font-size: 20px;
 }
 
 .contact-social {
@@ -64,11 +77,13 @@ h5 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #121111c3;
+  background-color: #c6c6c6c3;
   border-radius: 50%;
   width: 70px;
   height: 70px;
-  transition: background-color 0.3s ease, transform 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    transform 0.3s ease;
 }
 
 .social-icon a svg {
@@ -96,9 +111,7 @@ h5 {
 }
 
 .contact-form {
-  background-color: rgba(18, 17, 17, 0.4);
-  /* background-color: #121111c3; */
-  /* background-color: rgba(13, 13, 15, 0.4); */
+  background-color: #c6c6c6c3;
   width: 80%;
   margin: 0 auto;
   padding: 50px;
@@ -107,8 +120,9 @@ h5 {
 }
 
 .form-input {
-  background-color: #293135;
+  background-color: #818181;
   color: #ddd;
+  border: none !important;
 }
 
 .form-input::placeholder {
@@ -117,14 +131,40 @@ h5 {
 
 .form-input:focus {
   border-color: #ddd !important;
-  background-color: #aa2039 !important;
+  background-color: #ffffff !important;
 }
 
-.form-button {
+.form-input:focus::placeholder {
+  color: #000000;
+}
+
+.contact-button {
   width: 50%;
+  font-size: 16px;
+  padding: 15px 40px;
+  color: #000000;
+  background-color: transparent;
+  border: #f2b950 2px solid;
+  border-radius: 40px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  font-weight: 600;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+.contact-button:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.6);
+  background-color: #f2b950;
+  color: #ffffff;
 }
 
 .contact-map {
   margin: 50px 0 0;
   border-radius: 30px;
 }
+

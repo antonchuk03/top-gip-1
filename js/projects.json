@@ -64,10 +64,10 @@
   },
   {
     "id": 4,
-    "slug": "lohistychnyi-sklad",
-    "title": "Логістичний склад",
-    "image": "./assets/images/projects/industrial/1-log-sklad/cover.jpg",
-    "description": "Сучасний логістичний комплекс - це ціла інфраструктура, здатна зробити торгову або виробничу діяльність більш зручною та ефективною. В нашому випадку ми намагалися досягнути бездоганності. Архітектура виконана в синіх тонах, які слугують гарним акцентом по всій будівлі. А білі перфоровані композитні панелі додають гостроти враження.",
+    "slug": "lohistychnyi-complex",
+    "title": "Логістичний комплекс \"Форт\"",
+    "image": "./assets/images/projects/industrial/1-log-complex/cover.jpg",
+    "description": "Сучасний логістичний комплекс \"Форт\" - це ціла інфраструктура, здатна зробити торгову або виробничу діяльність більш зручною та ефективною. В нашому випадку ми намагалися досягнути бездоганності. Архітектура виконана в синіх тонах, які слугують гарним акцентом по всій будівлі. А білі перфоровані композитні панелі додають гостроти враження.",
     "details": [
       "Площа: 3 031 м²",
       "Рік проектування: 2022",
@@ -76,11 +76,11 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/industrial/1-log-sklad/1.jpg",
-      "./assets/images/projects/industrial/1-log-sklad/2.jpg",
-      "./assets/images/projects/industrial/1-log-sklad/3.jpg",
-      "./assets/images/projects/industrial/1-log-sklad/4.jpg",
-      "./assets/images/projects/industrial/1-log-sklad/5.jpg"
+      "./assets/images/projects/industrial/1-log-complex/1.jpg",
+      "./assets/images/projects/industrial/1-log-complex/2.jpg",
+      "./assets/images/projects/industrial/1-log-complex/3.jpg",
+      "./assets/images/projects/industrial/1-log-complex/4.jpg",
+      "./assets/images/projects/industrial/1-log-complex/5.jpg"
     ],
     "categories": ["industrial"],
     "categoryNames": ["Промислове будівництво"]
@@ -782,10 +782,10 @@
   },
   {
     "id": 36,
-    "slug": "rivnenska",
-    "title": "Рівненська",
-    "image": "./assets/images/projects/residental/12-rivnenska/cover.jpg",
-    "description": "Концепт забудови житлового комплексу \"Рівненська\" - це окраса міста. Гарні стримані кольори фасаду плавно поєднуються  навколишнім середовищем. Його архітектура ніжна, стримана, вона ніби огортає тебе і там ти дійсно відчуваєш домашній затишок.",
+    "slug": "kyiv-sky",
+    "title": "Kyiv Sky",
+    "image": "./assets/images/projects/residental/12-kyiv-sky/cover.jpg",
+    "description": "Концепт забудови житлового комплексу \"Kyiv Sky\" - це окраса міста. Гарні стримані кольори фасаду плавно поєднуються  навколишнім середовищем. Його архітектура ніжна, стримана, вона ніби огортає тебе і там ти дійсно відчуваєш домашній затишок.",
     "details": [
       "Площа: 16 775 м²",
       "Рік проектування: 2021",
@@ -794,11 +794,11 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/12-rivnenska/1.jpg",
-      "./assets/images/projects/residental/12-rivnenska/2.jpg",
-      "./assets/images/projects/residental/12-rivnenska/3.jpg",
-      "./assets/images/projects/residental/12-rivnenska/4.jpg",
-      "./assets/images/projects/residental/12-rivnenska/5.jpg"
+      "./assets/images/projects/residental/12-kyiv-sky/1.jpg",
+      "./assets/images/projects/residental/12-kyiv-sky/2.jpg",
+      "./assets/images/projects/residental/12-kyiv-sky/3.jpg",
+      "./assets/images/projects/residental/12-kyiv-sky/4.jpg",
+      "./assets/images/projects/residental/12-kyiv-sky/5.jpg"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]

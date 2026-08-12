@@ -57,9 +57,7 @@
   padding: 15px 20px;
   border-radius: 16px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .timeline-item h3 {
@@ -104,7 +102,7 @@
 .swiper-pagination {
   bottom: 15px !important;
 }
-
+ 
 .swiper-pagination-bullet {
   background: #fff !important;
   opacity: 0.6;
@@ -112,7 +110,7 @@
 }
 
 .swiper-pagination-bullet-active {
-  background: #eb0200 !important;
+  background: #f2b950 !important;
   opacity: 1;
 }
 
@@ -125,7 +123,7 @@
 
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  color: #eb0200 !important;
+  color: #f2b950 !important;
 }
 
 .about-text-block {
@@ -140,7 +138,7 @@
 
 /* Our team */
 .our-team-section {
-  background-image: url("../assets/images/pages/about/our-team.jpg");
+  background-image: url("../assets/images/pages/about/our-team.png");
 }
 
 /* Grid команда */
@@ -162,9 +160,7 @@
   object-fit: cover;
   border-radius: 12px;
   cursor: pointer;
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .team-member img:hover {

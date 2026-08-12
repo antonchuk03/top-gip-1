@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Ініціалізуємо підсвічування активних посилань
     initActiveLinks();
+    initBurgerMenu();
 
     // Оновлюємо AOS, якщо він підключений
     if (window.AOS) {
@@ -39,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function initActiveLinks() {
     const navLinks = document.querySelectorAll(
-      ".nav-links a, .footer-pages-links a",
+      ".burger-menu a, .footer-pages-links a",
     );
     const currentPath = window.location.pathname;
     const currentPage = currentPath.split("/").pop() || "index.html";
@@ -61,6 +62,48 @@ document.addEventListener("DOMContentLoaded", () => {
       ) {
         link.classList.add("active");
       }
+    });
+  }
+
+  function initBurgerMenu() {
+    const toggleBtn = document.querySelector(".burger-toggle");
+    const panel = document.querySelector(".burger-menu-panel");
+    const overlay = document.querySelector(".menu-overlay");
+    const closeBtn = document.querySelector(".burger-menu-close");
+    if (!toggleBtn || !panel || !overlay || !closeBtn) return;
+
+    const closeMenu = () => {
+      document.body.classList.remove("menu-open");
+      panel.classList.remove("open");
+      overlay.classList.remove("open");
+      toggleBtn.setAttribute("aria-expanded", "false");
+      panel.setAttribute("aria-hidden", "true");
+      overlay.setAttribute("aria-hidden", "true");
+    };
+
+    const openMenu = () => {
+      document.body.classList.add("menu-open");
+      panel.classList.add("open");
+      overlay.classList.add("open");
+      toggleBtn.setAttribute("aria-expanded", "true");
+      panel.setAttribute("aria-hidden", "false");
+      overlay.setAttribute("aria-hidden", "false");
+    };
+
+    toggleBtn.addEventListener("click", () => {
+      if (panel.classList.contains("open")) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
+    });
+
+    overlay.addEventListener("click", () => {
+      closeMenu();
+    });
+
+    closeBtn.addEventListener("click", () => {
+      closeMenu();
     });
   }
 });
