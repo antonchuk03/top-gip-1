@@ -55,7 +55,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const filteredProjects =
       filter === "all"
         ? projectsData
-        : projectsData.filter((project) => project.categories.includes(filter));
+        : projectsData.filter(
+            (project) =>
+              Array.isArray(project.categories) &&
+              project.categories.includes(filter),
+          );
 
     if (filteredProjects.length === 0) {
       projectsContainer.innerHTML =

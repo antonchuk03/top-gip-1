@@ -463,9 +463,7 @@ p {
 }
 
 /* а ось обрана картинка — піднімається і стає яскравою */
-.projects-grid:hover .project-item:hover,
-.project-item:focus,
-.project-item.active {
+.projects-grid:hover .project-item:hover {
   flex: 3;
   transform: scale(1.05);
   filter: none;
@@ -690,7 +688,7 @@ p {
   margin: 0 auto;
   padding-top: 30px;
   width: 100%;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .footer-content {
@@ -729,8 +727,8 @@ p {
 }
 
 .address-icon {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
 }
 
 .footer-address,

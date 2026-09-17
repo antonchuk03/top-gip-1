@@ -149,7 +149,7 @@
   backdrop-filter: blur(2px);
 }
 
-.project-card:focus,
+/* .project-card:focus,
 .project-card:focus-visible {
   outline: 2px solid #f2b950;
   outline-offset: 3px;
@@ -165,7 +165,7 @@
 .project-card:focus-visible .project-card-overlay::before {
   opacity: 1;
   backdrop-filter: blur(6px);
-}
+} */
 
 @media (hover: none) {
   .project-card-overlay > * {

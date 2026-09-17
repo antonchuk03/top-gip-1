@@ -6,7 +6,7 @@
   min-height: 900px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("../assets/images/pages/contact/contact-us.png");
+  background-image: url("../assets/images/pages/contact/contact-us.jpg");
 }
 
 .contact-page::before {
@@ -167,4 +167,3 @@ h5 {
   margin: 50px 0 0;
   border-radius: 30px;
 }
-
