@@ -12,38 +12,6 @@
       href="./assets/images/icons/favicon.png"
     />
 
-    <!-- Play -->
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap"
-      rel="stylesheet"
-    /> -->
-
-    <!-- Overpass Mono -->
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&display=swap"
-      rel="stylesheet"
-    /> -->
-
-    <!-- Manrope -->
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
-      rel="stylesheet"
-    /> -->
-
-    <!-- Inter -->
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
-      rel="stylesheet"
-    /> -->
-
     <!-- Montserrat -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -60,7 +28,10 @@
       content="Комплексне проектування, інженерний супровід та технічний консалтинг вашого будівництва."
     />
     <meta property="og:url" content="https://top-gip-1.vercel.app/" />
-<meta property="og:image" content="https://top-gip-1.vercel.app/assets/images/og/top-gip-main-2026.jpg">
+    <meta
+      property="og:image"
+      content="https://top-gip-1.vercel.app/assets/images/og/top-gip-main-2026.jpg"
+    />
     <meta
       property="og:image:alt"
       content="Top Gip — архітектура та інженерія"
@@ -78,7 +49,7 @@
     <div id="header-placeholder"></div>
     <main>
       <section id="home" class="section home">
-        <video autoplay muted loop playsinline id="bg-video" preload="none">
+        <video autoplay muted loop playsinline preload="metadata" id="bg-video">
           <source src="video.mp4" type="video/mp4" />
           Ваш браузер не підтримує відео-тег.
         </video>
@@ -280,7 +251,7 @@
             delay="100"
             class="project-item"
             style="
-              background-image: url(&quot;./assets/images/categories/residental.jpg&quot;);
+              background-image: url(&quot;./assets/images/categories/residental.webp&quot;);
             "
             data-category="residential_complexes"
             tabindex="0"
@@ -296,7 +267,7 @@
             delay="100"
             class="project-item"
             style="
-              background-image: url(&quot;./assets/images/categories/public-buildings.jpg&quot;);
+              background-image: url(&quot;./assets/images/categories/public-buildings.webp&quot;);
             "
             data-category="public_buildings"
             tabindex="0"
@@ -312,7 +283,7 @@
             delay="100"
             class="project-item"
             style="
-              background-image: url(&quot;./assets/images/categories/urban-planning.jpg&quot;);
+              background-image: url(&quot;./assets/images/categories/urban-planning.webp&quot;);
             "
             data-category="urban_planning"
             tabindex="0"
@@ -328,7 +299,7 @@
             delay="100"
             class="project-item"
             style="
-              background-image: url(&quot;./assets/images/categories/private-housing.jpg&quot;);
+              background-image: url(&quot;./assets/images/categories/private-housing.webp&quot;);
             "
             data-category="private_housing"
             tabindex="0"
@@ -344,7 +315,7 @@
             delay="100"
             class="project-item"
             style="
-              background-image: url(&quot;./assets/images/categories/industrial.jpg&quot;);
+              background-image: url(&quot;./assets/images/categories/industrial.webp&quot;);
             "
             data-category="industrial"
             tabindex="0"
@@ -360,7 +331,7 @@
             delay="100"
             class="project-item"
             style="
-              background-image: url(&quot;./assets/images/categories/competitions.jpg&quot;);
+              background-image: url(&quot;./assets/images/categories/competitions.webp&quot;);
             "
             data-category="competitions"
             tabindex="0"
@@ -569,10 +540,8 @@
     <div id="footer-placeholder"></div>
 
     <script src="./js/load-components.js"></script>
-
-    <script src="./js/mail.js"></script>
-    <script src="./js/main-page-projects.js"></script>
     <script src="./js/script.js"></script>
+    <script src="./js/mail.js"></script>
     <script src="./js/scrollToTopbtn.js"></script>
 
     <!-- AOS JS -->

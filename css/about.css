@@ -24,7 +24,7 @@
 }
 
 .about-section {
-  background-image: url("../assets/images/pages/about/about-us.jpg");
+  background-image: url("../assets/images/pages/about/about-us.webp");
 }
 
 .container {
@@ -140,7 +140,7 @@
 
 /* Our team */
 .our-team-section {
-  background-image: url("../assets/images/pages/about/our-team.jpg");
+  background-image: url("../assets/images/pages/about/our-team.webp");
 }
 
 /* Grid команда */

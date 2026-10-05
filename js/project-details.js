@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .map(
         (imgSrc) => `
             <div class="gallery-item" data-aos="fade-up">
-                <img src="${imgSrc}" alt="${project.title}" onclick="openLightbox(this)">
+                <img src="${imgSrc}" alt="${project.title}" onclick="openLightbox(this)" loading="lazy" decoding="async">
             </div>
         `,
       )

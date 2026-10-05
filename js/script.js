@@ -1,35 +1,5 @@
 // Global script with common logic
 document.addEventListener("DOMContentLoaded", () => {
-  // Swiper JS on about page - only init if element exists
-
-  const servicesSlider = document.querySelector(".services-slider");
-  if (servicesSlider && typeof Swiper !== "undefined") {
-    new Swiper(".services-slider", {
-      slidesPerView: 1,
-      spaceBetween: 30,
-      loop: true,
-      centeredSlides: true,
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-      },
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
-      },
-      breakpoints: {
-        640: {
-          slidesPerView: 2,
-          spaceBetween: 20,
-        },
-        1024: {
-          slidesPerView: 3,
-          spaceBetween: 30,
-        },
-      },
-    });
-  }
-
   const numberEls = Array.from(document.querySelectorAll(".number-card h3"));
   if (numberEls.length) {
     const getParts = (text) => {
@@ -91,4 +61,67 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }
   }
+
+  const grid = document.querySelector(".projects-grid");
+  if (!grid) return;
+
+  // Touch handling
+  grid.addEventListener("click", (e) => {
+    const item = e.target.closest(".project-item");
+    if (!item) {
+      grid
+        .querySelectorAll(".project-item.active")
+        .forEach((i) => i.classList.remove("active"));
+      return;
+    }
+    const isActive = item.classList.contains("active");
+    grid
+      .querySelectorAll(".project-item.active")
+      .forEach((i) => i.classList.remove("active"));
+    if (!isActive) {
+      item.classList.add("active");
+    } else {
+      const category = item.getAttribute("data-category");
+      if (category) {
+        window.location.href = `projects.html?filter=${category}`;
+      }
+    }
+  });
+
+  // Desktop click / dblclick
+  grid.querySelectorAll(".project-item").forEach((item) => {
+    item.addEventListener("dblclick", () => {
+      const category = item.getAttribute("data-category");
+      if (category) {
+        window.location.href = `projects.html?filter=${category}`;
+      }
+    });
+
+    item.addEventListener("click", (e) => {
+      if (window.matchMedia("(pointer: fine)").matches) {
+        const category = item.getAttribute("data-category");
+        if (category) {
+          window.location.href = `projects.html?filter=${category}`;
+        }
+      }
+    });
+  });
+
+  // Keyboard navigation
+  grid.querySelectorAll(".project-item").forEach((item) => {
+    item.addEventListener("focus", () => {
+      grid
+        .querySelectorAll(".project-item.active")
+        .forEach((i) => i.classList.remove("active"));
+      item.classList.add("active");
+    });
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest(".projects-grid")) {
+      grid
+        .querySelectorAll(".project-item.active")
+        .forEach((i) => i.classList.remove("active"));
+    }
+  });
 });

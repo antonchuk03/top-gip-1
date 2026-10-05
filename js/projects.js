@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     for (const path of jsonPaths) {
       try {
         console.log("Спроба завантаження проектів з:", path);
-        const response = await fetch(path + "?v=" + new Date().getTime());
+        const response = await fetch(path);
         if (!response.ok) {
           throw new Error(`Статус: ${response.status}`);
         }
@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
           : "";
 
       projectCard.innerHTML = `
-                <img src="${project.image}" alt="${project.title}">
+                <img src="${project.image}" alt="${project.title}" loading="lazy" decoding="async">
                 <div class="project-card-overlay">
                     <div class="project-category">${displayCategoryName}</div>
                     <div class="project-title">${project.title}</div>
