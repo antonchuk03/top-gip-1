@@ -20,7 +20,6 @@
 .filter-btn {
   text-transform: uppercase;
   color: #000000;
-  /* font-size: 17px; */
   font-size: 13px;
   text-decoration: none;
   position: relative;
@@ -65,7 +64,7 @@
 .projects-page-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 10px; /*30*/
+  gap: 10px; 
   padding: 20px;
   max-width: 100%;
   margin: 0 auto;
@@ -73,8 +72,7 @@
 
 .project-card {
   position: relative;
-  height: 450px; /*400*/
-  /* border-radius: 10px; */
+  height: 450px; 
   overflow: hidden;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   transition:
@@ -148,24 +146,6 @@
   opacity: 1;
   backdrop-filter: blur(2px);
 }
-
-/* .project-card:focus,
-.project-card:focus-visible {
-  outline: 2px solid #f2b950;
-  outline-offset: 3px;
-}
-
-.project-card:focus .project-card-overlay > *,
-.project-card:focus-visible .project-card-overlay > * {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-.project-card:focus .project-card-overlay::before,
-.project-card:focus-visible .project-card-overlay::before {
-  opacity: 1;
-  backdrop-filter: blur(6px);
-} */
 
 @media (hover: none) {
   .project-card-overlay > * {

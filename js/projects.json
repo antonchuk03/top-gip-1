@@ -292,6 +292,36 @@
   },
   {
     "id": 10,
+    "slug": "yarovytsia",
+    "title": "Яровиця",
+    "image": "./assets/images/projects/residental/4-yarovytsia/cover.webp",
+    "description": "Проєкт передбачає комплексне проєктування сучасного житлово-офісного комплексу каскадної поверховості \"Яровиця\" по вул. Студентській у м. Рівне. Об'єкт вдало розташований у прибережній зоні біля озера Басів Кут, забезпечуючи мальовничі панорамні краєвиди та зручну доступність до центру міста. Архітектурне рішення поєднує секції від 7 до 16 поверхів, продумані житлові планування з варіантами приватних терас та дизайнерські інтер'єри холів. Перші поверхи та стилобатна частина охоплюють понад 4 000 м² комерційних площ для розвитку внутрішньої інфраструктури та бізнесу. Інженерна концепція включає підземний паркінг із безпосереднім ліфтовим доступом, закриту благоустроєну територію й повноцінне зоноване укриття цивільного захисту. Проєкт формує безпечний, екологічний та автономний міський простір для комфортного життя й відпочинку.",
+    "details": [
+      "Площа: 26 188 м²",
+      "Рік проектування: 2025",
+      "Рік реалізації: В процесі реалізації",
+      "Локація: м. Рівне",
+      "Статус: В процесі реалізації"
+    ],
+    "gallery": [
+      "./assets/images/projects/residental/4-yarovytsia/1.webp",
+      "./assets/images/projects/residental/4-yarovytsia/2.webp",
+      "./assets/images/projects/residental/4-yarovytsia/3.webp",
+      "./assets/images/projects/residental/4-yarovytsia/4.webp",
+      "./assets/images/projects/residental/4-yarovytsia/5.webp",
+      "./assets/images/projects/residental/4-yarovytsia/6.webp",
+      "./assets/images/projects/residental/4-yarovytsia/7.webp",
+      "./assets/images/projects/residental/4-yarovytsia/8.webp",
+      "./assets/images/projects/residental/4-yarovytsia/9.webp",
+      "./assets/images/projects/residental/4-yarovytsia/10.webp",
+      "./assets/images/projects/residental/4-yarovytsia/11.webp",
+      "./assets/images/projects/residental/4-yarovytsia/12.webp"
+    ],
+    "categories": ["residential_complexes", "urban_planning"],
+    "categoryNames": ["Житлові комплекси", "Містобудування"]
+  },
+  {
+    "id": 11,
     "slug": "lisnuki",
     "title": "Lisnuki",
     "image": "./assets/images/projects/private-housing/2-lisnuki/cover.webp",
@@ -314,11 +344,11 @@
     "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "ahro-express-service",
     "title": "\"Агро-Експрес-Сервіс\"",
     "image": "./assets/images/projects/industrial/2-agro-express-service/cover.webp",
-    "description": "Цукровий завод у м. Мар'янів. Комплекс допоміжних споруд і технічне переоснащення",
+    "description": "Цукровий завод у м. Мар'янів. Комплекс допоміжних споруд і технічне переоснащення. КМД відділення жомогрануляції опори галерей КМД (2021-2022 реалізація).<br><br>2022 рік<br>КМД Склад для зберігання жому КМД 2022 проект – реалізація<br>Технічне переоснащення лінії обробки буряка (заміна бункера зі збільшенням об’єму та заміна бурякорізок) <br>Технічне переоснащення лінії видалення дефекату <br>Збільшення потужності лінії пресування жому <br>Технологічне переоснащення лінії подачі буряка <br>Влаштування тельфера для можливості обслуговування лінії пресування жому<br>Технічне переоснащення лінії виготовлення цукру (заміна центрифуг)<br><br>2023 рік<br>Влаштування лінії видалення хвостиків буряка<br>Лінія подачі сушеного жому в бункер палива ТЕЦ <br>Влаштування димососа із обв’язкою димоходів в ТЕЦ<br>Збільшення об’єму бункера для подачі палива в ТЕЦ<br>Влаштування відділення фасування цукру у БІГ-БЕГ<br><br>2024 рік <br>Технічне переоснащення лінії транспортування жому із влаштуванням вітки лінії повернення віджатого жому",
     "details": [
       "Площа: 10 000 м²",
       "Рік проектування: 2021-2024",
@@ -333,10 +363,10 @@
     "categoryNames": ["Промислове будівництво"]
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "360",
     "title": "360",
-    "image": "./assets/images/projects/residental/4-360/cover.webp",
+    "image": "./assets/images/projects/residental/5-360/cover.webp",
     "description": "\"360\" - житловий комплекс комфорт-класу, для тих, хто цінує свій час та звик бути у центрі подій. Комплекс знаходиться в районі з розвиненою інфраструктурою: поруч школи, садочки, поліклініка, торговий центр. Все навколо тебе! При проектуванні комплексу використані архітектурні рішення в стилі \"геометричного хай-теку\", які передбачують каскадну забудову та чітку геометрію фасаду. Проектом передбачено можливість трансформації внутрішнього простору квартир, завдяки монолітно-каркасній забудові. Зручність мешканцям забезпечить наявність підземного паркінгу, закрита територія та власна управлінська компанія.",
     "details": [
       "Площа: 15 000 м²",
@@ -346,26 +376,26 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/4-360/1.webp",
-      "./assets/images/projects/residental/4-360/2.webp",
-      "./assets/images/projects/residental/4-360/3.webp",
-      "./assets/images/projects/residental/4-360/4.webp",
-      "./assets/images/projects/residental/4-360/5.webp",
-      "./assets/images/projects/residental/4-360/6.webp",
-      "./assets/images/projects/residental/4-360/7.webp",
-      "./assets/images/projects/residental/4-360/8.webp",
-      "./assets/images/projects/residental/4-360/9.webp",
-      "./assets/images/projects/residental/4-360/10.webp",
-      "./assets/images/projects/residental/4-360/11.webp",
-      "./assets/images/projects/residental/4-360/12.webp",
-      "./assets/images/projects/residental/4-360/13.webp",
-      "./assets/images/projects/residental/4-360/14.webp"
+      "./assets/images/projects/residental/5-360/1.webp",
+      "./assets/images/projects/residental/5-360/2.webp",
+      "./assets/images/projects/residental/5-360/3.webp",
+      "./assets/images/projects/residental/5-360/4.webp",
+      "./assets/images/projects/residental/5-360/5.webp",
+      "./assets/images/projects/residental/5-360/6.webp",
+      "./assets/images/projects/residental/5-360/7.webp",
+      "./assets/images/projects/residental/5-360/8.webp",
+      "./assets/images/projects/residental/5-360/9.webp",
+      "./assets/images/projects/residental/5-360/10.webp",
+      "./assets/images/projects/residental/5-360/11.webp",
+      "./assets/images/projects/residental/5-360/12.webp",
+      "./assets/images/projects/residental/5-360/13.webp",
+      "./assets/images/projects/residental/5-360/14.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "dubno-likarnya",
     "title": "Дубенська міська лікарня",
     "image": "./assets/images/projects/public-buildings/4-dubno-likarnya/cover.webp",
@@ -393,7 +423,7 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "novostav",
     "title": "Novostav",
     "image": "./assets/images/projects/private-housing/3-novostav/cover.webp",
@@ -413,10 +443,10 @@
     "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "sourendzh",
     "title": "Соурендж",
-    "image": "./assets/images/projects/residental/5-sourendzh/cover.webp",
+    "image": "./assets/images/projects/residental/6-sourendzh/cover.webp",
     "description": "Будівля являє собою організовану симетричну композицію, яка в своєму образному рішенні відображає перетин горизонтальних та вертикальних форм та їх стрімкий рух вгору. Весь комплекс можна умовно поділити на два окремі композиційно просторові об'єми. Виразність формується завдяки коннтрасним підбором матеріалу на фасадах. Об'єм має багато скла та композитних матеріалів. Архітектурна стилістика будівлі: функціоналізм в поєднанні з хай-тек. Щодо загальної містобудівної ситуації, то даний об'єму буде домінантою кварталу, оскільки будівлі навколо мають горизонтальну композицію (тобто навколо будівлі до 5-6-ти поверхів). Даний об'єм буде вигідно завершувати ансамбль будівель та сне композиційною прив'язкою ділового кварталу.",
     "details": [
       "Площа: 10 481 м²",
@@ -426,23 +456,23 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/5-sourendzh/1.webp",
-      "./assets/images/projects/residental/5-sourendzh/2.webp",
-      "./assets/images/projects/residental/5-sourendzh/3.webp",
-      "./assets/images/projects/residental/5-sourendzh/4.webp",
-      "./assets/images/projects/residental/5-sourendzh/5.webp",
-      "./assets/images/projects/residental/5-sourendzh/6.webp",
-      "./assets/images/projects/residental/5-sourendzh/7.webp",
-      "./assets/images/projects/residental/5-sourendzh/8.webp",
-      "./assets/images/projects/residental/5-sourendzh/9.webp",
-      "./assets/images/projects/residental/5-sourendzh/10.webp",
-      "./assets/images/projects/residental/5-sourendzh/11.webp"
+      "./assets/images/projects/residental/6-sourendzh/1.webp",
+      "./assets/images/projects/residental/6-sourendzh/2.webp",
+      "./assets/images/projects/residental/6-sourendzh/3.webp",
+      "./assets/images/projects/residental/6-sourendzh/4.webp",
+      "./assets/images/projects/residental/6-sourendzh/5.webp",
+      "./assets/images/projects/residental/6-sourendzh/6.webp",
+      "./assets/images/projects/residental/6-sourendzh/7.webp",
+      "./assets/images/projects/residental/6-sourendzh/8.webp",
+      "./assets/images/projects/residental/6-sourendzh/9.webp",
+      "./assets/images/projects/residental/6-sourendzh/10.webp",
+      "./assets/images/projects/residental/6-sourendzh/11.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "office-happystreet",
     "title": "Офіс на Щасливому",
     "image": "./assets/images/projects/public-buildings/5-office-happystreet/cover.webp",
@@ -472,7 +502,7 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "mvs",
     "title": "База відпочинку МВС",
     "image": "./assets/images/projects/urban-planning/4-mvs/cover.webp",
@@ -495,7 +525,7 @@
     "categoryNames": ["Містобудування"]
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "villa-alexandriya",
     "title": "Villa Alexandriya",
     "image": "./assets/images/projects/private-housing/4-villa-alexandriya/cover.webp",
@@ -518,10 +548,10 @@
     "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "bridge-tower",
     "title": "Bridge Tower",
-    "image": "./assets/images/projects/residental/6-bridge-tower/cover.webp",
+    "image": "./assets/images/projects/residental/7-bridge-tower/cover.webp",
     "description": "\"Bridge Tower\" - ідеальне місце для життя і відпочинку. Новаторський підхід до наповнення житлового комплексу, з можливістю зануритися в різнобарвний світ фарб, звучання води і прогулянок парковою зоною. Ми пропонуємо житло у будинку, розташованому у центрі міста з роивнутою інфраструктурою та розширеними можливостями для чудового проведення часу. Завдяки добре налагодженому транспортному сполученню ви зможете з легкістю дістатися до будь-якого району міста. Поряд з житловим комплексом знаходяться торгівельні центри, продуктові магазини, ринок, де можна придбати екологічно чисті продукти. В даному мікрорайоні передбачені сучасні дитячі та спортивні майданчики, багато зелених насаджень і просторі зони відпочинку. ",
     "details": [
       "Площа: 15 000 м²",
@@ -531,26 +561,26 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/6-bridge-tower/1.webp",
-      "./assets/images/projects/residental/6-bridge-tower/2.webp",
-      "./assets/images/projects/residental/6-bridge-tower/3.webp",
-      "./assets/images/projects/residental/6-bridge-tower/4.webp",
-      "./assets/images/projects/residental/6-bridge-tower/5.webp",
-      "./assets/images/projects/residental/6-bridge-tower/6.webp",
-      "./assets/images/projects/residental/6-bridge-tower/7.webp",
-      "./assets/images/projects/residental/6-bridge-tower/8.webp",
-      "./assets/images/projects/residental/6-bridge-tower/9.webp",
-      "./assets/images/projects/residental/6-bridge-tower/10.webp",
-      "./assets/images/projects/residental/6-bridge-tower/11.webp",
-      "./assets/images/projects/residental/6-bridge-tower/12.webp",
-      "./assets/images/projects/residental/6-bridge-tower/13.webp",
-      "./assets/images/projects/residental/6-bridge-tower/14.webp"
+      "./assets/images/projects/residental/7-bridge-tower/1.webp",
+      "./assets/images/projects/residental/7-bridge-tower/2.webp",
+      "./assets/images/projects/residental/7-bridge-tower/3.webp",
+      "./assets/images/projects/residental/7-bridge-tower/4.webp",
+      "./assets/images/projects/residental/7-bridge-tower/5.webp",
+      "./assets/images/projects/residental/7-bridge-tower/6.webp",
+      "./assets/images/projects/residental/7-bridge-tower/7.webp",
+      "./assets/images/projects/residental/7-bridge-tower/8.webp",
+      "./assets/images/projects/residental/7-bridge-tower/9.webp",
+      "./assets/images/projects/residental/7-bridge-tower/10.webp",
+      "./assets/images/projects/residental/7-bridge-tower/11.webp",
+      "./assets/images/projects/residental/7-bridge-tower/12.webp",
+      "./assets/images/projects/residental/7-bridge-tower/13.webp",
+      "./assets/images/projects/residental/7-bridge-tower/14.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "rivne-obl-klin-likarnya",
     "title": "Рівненська обласна клінічна лікарня",
     "image": "./assets/images/projects/public-buildings/6-rivne-obl-klin-likarnya/cover.webp",
@@ -573,7 +603,7 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "kikvidze",
     "title": "Містобудування по вул. Кіквідзе",
     "image": "./assets/images/projects/urban-planning/5-kikvidze/cover.webp",
@@ -596,7 +626,7 @@
     "categoryNames": ["Містобудування"]
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "veresneve",
     "title": "Veresneve",
     "image": "./assets/images/projects/private-housing/5-veresneve/cover.webp",
@@ -618,10 +648,10 @@
     "categoryNames": ["Приватне житло"]
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "galytskyi",
     "title": "Галицький",
-    "image": "./assets/images/projects/residental/7-galytskyi/cover.webp",
+    "image": "./assets/images/projects/residental/8-galytskyi/cover.webp",
     "description": "Обираючи квартиру в житловому комплексі Галицький ви гарантовано отримуєте в подарунок свіже повітря, адже поруч знаходиться великий парк \"Мототрек\". Мальовничі краєвиди та приємні прогулянки - ось, що вас очікує. У кожній квартирі втілено новий підхід до житла. Прості планування з відкритим простором та мінімум перегородок. Комплекс має свою закриту територію, в яку можуть потрапити лише жителі будинку, власний дитячий майданчик та парковку. Неподалік знаходиться школа, парк, супермаркет Фоззі, автовокзал та зупинка.",
     "details": [
       "Площа: 15 600 м²",
@@ -631,28 +661,28 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/7-galytskyi/1.webp",
-      "./assets/images/projects/residental/7-galytskyi/2.webp",
-      "./assets/images/projects/residental/7-galytskyi/3.webp",
-      "./assets/images/projects/residental/7-galytskyi/4.webp",
-      "./assets/images/projects/residental/7-galytskyi/5.webp",
-      "./assets/images/projects/residental/7-galytskyi/6.webp",
-      "./assets/images/projects/residental/7-galytskyi/7.webp",
-      "./assets/images/projects/residental/7-galytskyi/8.webp",
-      "./assets/images/projects/residental/7-galytskyi/9.webp",
-      "./assets/images/projects/residental/7-galytskyi/10.webp",
-      "./assets/images/projects/residental/7-galytskyi/11.webp",
-      "./assets/images/projects/residental/7-galytskyi/12.webp",
-      "./assets/images/projects/residental/7-galytskyi/13.webp",
-      "./assets/images/projects/residental/7-galytskyi/14.webp",
-      "./assets/images/projects/residental/7-galytskyi/15.webp",
-      "./assets/images/projects/residental/7-galytskyi/16.webp"
+      "./assets/images/projects/residental/8-galytskyi/1.webp",
+      "./assets/images/projects/residental/8-galytskyi/2.webp",
+      "./assets/images/projects/residental/8-galytskyi/3.webp",
+      "./assets/images/projects/residental/8-galytskyi/4.webp",
+      "./assets/images/projects/residental/8-galytskyi/5.webp",
+      "./assets/images/projects/residental/8-galytskyi/6.webp",
+      "./assets/images/projects/residental/8-galytskyi/7.webp",
+      "./assets/images/projects/residental/8-galytskyi/8.webp",
+      "./assets/images/projects/residental/8-galytskyi/9.webp",
+      "./assets/images/projects/residental/8-galytskyi/10.webp",
+      "./assets/images/projects/residental/8-galytskyi/11.webp",
+      "./assets/images/projects/residental/8-galytskyi/12.webp",
+      "./assets/images/projects/residental/8-galytskyi/13.webp",
+      "./assets/images/projects/residental/8-galytskyi/14.webp",
+      "./assets/images/projects/residental/8-galytskyi/15.webp",
+      "./assets/images/projects/residental/8-galytskyi/16.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "basein",
     "title": "Басейн СДЮСШОР",
     "image": "./assets/images/projects/public-buildings/7-basein/cover.webp",
@@ -675,7 +705,7 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "pliuty",
     "title": "Котеджне містечко у с. Плюти",
     "image": "./assets/images/projects/urban-planning/6-pliuty/cover.webp",
@@ -698,10 +728,10 @@
     "categoryNames": ["Містобудування"]
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "luxury",
     "title": "Luxury Square",
-    "image": "./assets/images/projects/residental/8-luxury/cover.webp",
+    "image": "./assets/images/projects/residental/9-luxury/cover.webp",
     "description": "ЖК \"Luxury Square\" підкреслює статус, адже ваші сусіди - найуспішніші люди Рівного. Просторі одно-, дво-, трьох кімнатні квартири з багатьма видами планувань та можливістю перепланування Кожна деталь проекту продумана з урахуванням вимог сучасних людей до комфорту: стильної архітектури, естетики та повноцінного оснащення житла. \"Luxury Square\" відрізняється своєю елегантністю, характерною для активних, успішних, цілеспрямованих людей. Лаундж зона, на даху із газоном та зеленими насадженнями, відкриває мальовничі панорами та дозволяє по-справжньому розслабитися у будь-який час.",
     "details": [
       "Площа: 8 500 м²",
@@ -711,17 +741,17 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/8-luxury/1.webp",
-      "./assets/images/projects/residental/8-luxury/2.webp",
-      "./assets/images/projects/residental/8-luxury/3.webp",
-      "./assets/images/projects/residental/8-luxury/4.webp",
-      "./assets/images/projects/residental/8-luxury/5.webp"
+      "./assets/images/projects/residental/9-luxury/1.webp",
+      "./assets/images/projects/residental/9-luxury/2.webp",
+      "./assets/images/projects/residental/9-luxury/3.webp",
+      "./assets/images/projects/residental/9-luxury/4.webp",
+      "./assets/images/projects/residental/9-luxury/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "military-lyceum",
     "title": "Обласний ліцей з посиленою військово-фізичною підготовкою ім. К. Острозького",
     "image": "./assets/images/projects/public-buildings/8-military-lyceum/cover.webp",
@@ -756,10 +786,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "perfect-city",
     "title": "Perfect Сity",
-    "image": "./assets/images/projects/residental/9-perfect-city/cover.webp",
+    "image": "./assets/images/projects/residental/10-perfect-city/cover.webp",
     "description": "Проєкт передбачає комплексне будівництво сучасного житлового кварталу \"Perfect City\" у мікрорайоні \"Північний\" по вул. Василя Червонія, 28 у м. Рівне. Об'єкт розташований у зоні з розвиненою міською інфраструктурою та зручним транспортним сполученням. Концепція генерального плану спрямована на створення безпечного, екологічного та інфраструктурно автономного житлового середовища, яке гармонійно поєднує енергоефективні житлові площі, функціональні зони відпочинку та високий рівень безпеки мешканців.",
     "details": [
       "Площа: 54 129 м²",
@@ -769,40 +799,40 @@
       "Статус: В процесі реалізації"
     ],
     "gallery": [
-      "./assets/images/projects/residental/9-perfect-city/1.webp",
-      "./assets/images/projects/residental/9-perfect-city/2.webp",
-      "./assets/images/projects/residental/9-perfect-city/3.webp",
-      "./assets/images/projects/residental/9-perfect-city/4.webp",
-      "./assets/images/projects/residental/9-perfect-city/5.webp",
-      "./assets/images/projects/residental/9-perfect-city/6.webp",
-      "./assets/images/projects/residental/9-perfect-city/7.webp",
-      "./assets/images/projects/residental/9-perfect-city/8.webp",
-      "./assets/images/projects/residental/9-perfect-city/9.webp",
-      "./assets/images/projects/residental/9-perfect-city/10.webp",
-      "./assets/images/projects/residental/9-perfect-city/11.webp",
-      "./assets/images/projects/residental/9-perfect-city/12.webp",
-      "./assets/images/projects/residental/9-perfect-city/13.webp",
-      "./assets/images/projects/residental/9-perfect-city/14.webp",
-      "./assets/images/projects/residental/9-perfect-city/15.webp",
-      "./assets/images/projects/residental/9-perfect-city/16.webp",
-      "./assets/images/projects/residental/9-perfect-city/17.webp",
-      "./assets/images/projects/residental/9-perfect-city/18.webp",
-      "./assets/images/projects/residental/9-perfect-city/19.webp",
-      "./assets/images/projects/residental/9-perfect-city/20.webp",
-      "./assets/images/projects/residental/9-perfect-city/21.webp",
-      "./assets/images/projects/residental/9-perfect-city/22.webp",
-      "./assets/images/projects/residental/9-perfect-city/23.webp",
-      "./assets/images/projects/residental/9-perfect-city/24.webp",
-      "./assets/images/projects/residental/9-perfect-city/25.webp",
-      "./assets/images/projects/residental/9-perfect-city/26.webp",
-      "./assets/images/projects/residental/9-perfect-city/27.webp",
-      "./assets/images/projects/residental/9-perfect-city/28.webp"
+      "./assets/images/projects/residental/10-perfect-city/1.webp",
+      "./assets/images/projects/residental/10-perfect-city/2.webp",
+      "./assets/images/projects/residental/10-perfect-city/3.webp",
+      "./assets/images/projects/residental/10-perfect-city/4.webp",
+      "./assets/images/projects/residental/10-perfect-city/5.webp",
+      "./assets/images/projects/residental/10-perfect-city/6.webp",
+      "./assets/images/projects/residental/10-perfect-city/7.webp",
+      "./assets/images/projects/residental/10-perfect-city/8.webp",
+      "./assets/images/projects/residental/10-perfect-city/9.webp",
+      "./assets/images/projects/residental/10-perfect-city/10.webp",
+      "./assets/images/projects/residental/10-perfect-city/11.webp",
+      "./assets/images/projects/residental/10-perfect-city/12.webp",
+      "./assets/images/projects/residental/10-perfect-city/13.webp",
+      "./assets/images/projects/residental/10-perfect-city/14.webp",
+      "./assets/images/projects/residental/10-perfect-city/15.webp",
+      "./assets/images/projects/residental/10-perfect-city/16.webp",
+      "./assets/images/projects/residental/10-perfect-city/17.webp",
+      "./assets/images/projects/residental/10-perfect-city/18.webp",
+      "./assets/images/projects/residental/10-perfect-city/19.webp",
+      "./assets/images/projects/residental/10-perfect-city/20.webp",
+      "./assets/images/projects/residental/10-perfect-city/21.webp",
+      "./assets/images/projects/residental/10-perfect-city/22.webp",
+      "./assets/images/projects/residental/10-perfect-city/23.webp",
+      "./assets/images/projects/residental/10-perfect-city/24.webp",
+      "./assets/images/projects/residental/10-perfect-city/25.webp",
+      "./assets/images/projects/residental/10-perfect-city/26.webp",
+      "./assets/images/projects/residental/10-perfect-city/27.webp",
+      "./assets/images/projects/residental/10-perfect-city/28.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "hotel-fita",
     "title": "Готельно-відпочинковий комплекс \"FITA\"",
     "image": "./assets/images/projects/public-buildings/9-hotel-fita/cover.webp",
@@ -839,10 +869,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "perfect-city-2",
     "title": "Perfect Сity 2.0",
-    "image": "./assets/images/projects/residental/10-perfect-city-2.0/cover.webp",
+    "image": "./assets/images/projects/residental/11-perfect-city-2.0/cover.webp",
     "description": "Проєкт передбачає нове будівництво сучасного багатофункціонального житлово-офісного комплексу \"Perfect City 2.0\" у м. Рівне по вулиці Василя Червонія (в районі супермаркету \"Novus\"). Концепція генерального плану спрямована на створення якісного міського середовища формату mixed-use, яке поєднує комфортабельне житло, ділову інфраструктуру та торгово-сервісні простори.<br><br>Архітектурно-просторова композиція об'єкта сформована комбінацією висотних житлових секцій та стилобатної частини із сучасним панорамним склінням. У комерційній зоні комплексу запроєктовано бізнес-центр, заклади громадського харчування та ресторани з відкритими терасами, а також торговельні приміщення для магазинів і сервісів на перших поверхах.",
     "details": [
       "Площа: 20 663 м²",
@@ -852,35 +882,35 @@
       "Статус: В процесі реалізації"
     ],
     "gallery": [
-      "./assets/images/projects/residental/10-perfect-city-2.0/1.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/2.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/3.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/4.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/5.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/6.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/7.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/8.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/9.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/10.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/11.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/12.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/13.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/14.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/15.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/16.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/17.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/18.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/19.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/20.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/21.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/22.webp",
-      "./assets/images/projects/residental/10-perfect-city-2.0/23.webp"
+      "./assets/images/projects/residental/11-perfect-city-2.0/1.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/2.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/3.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/4.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/5.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/6.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/7.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/8.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/9.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/10.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/11.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/12.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/13.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/14.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/15.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/16.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/17.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/18.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/19.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/20.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/21.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/22.webp",
+      "./assets/images/projects/residental/11-perfect-city-2.0/23.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "skyliner",
     "title": "Skyliner",
     "image": "./assets/images/projects/public-buildings/10-skyliner/cover.webp",
@@ -901,10 +931,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "drive-city",
     "title": "Drive City",
-    "image": "./assets/images/projects/residental/11-drive-city/cover.webp",
+    "image": "./assets/images/projects/residental/12-drive-city/cover.webp",
     "description": "Новий житловий комплекс, розміщений у житловому масиві по вул. Захисників Маріуполя (колишня Костромська) - це місце, де вирує життя, а в середині самого ЖК панує затишок, де нічого не відволікатиме від спокійного життя: закритий двір без машин та сторонніх людей з контролем доступу тільки для мешканців.<br><br>Якісне декоративне озеленення та освітлення, закрита територія, яка буде під цілодобовим наглядом консьєржа - спонукатимуть вас почуватись затишно, як в приватному будинку та водночас у безпеці, яку надасть житловий комплекс. ",
     "details": [
       "Площа: 5 627 м²",
@@ -914,40 +944,40 @@
       "Статус: В процесі реалізації"
     ],
     "gallery": [
-      "./assets/images/projects/residental/11-drive-city/1.webp",
-      "./assets/images/projects/residental/11-drive-city/2.webp",
-      "./assets/images/projects/residental/11-drive-city/3.webp",
-      "./assets/images/projects/residental/11-drive-city/4.webp",
-      "./assets/images/projects/residental/11-drive-city/5.webp",
-      "./assets/images/projects/residental/11-drive-city/6.webp",
-      "./assets/images/projects/residental/11-drive-city/7.webp",
-      "./assets/images/projects/residental/11-drive-city/8.webp",
-      "./assets/images/projects/residental/11-drive-city/9.webp",
-      "./assets/images/projects/residental/11-drive-city/10.webp",
-      "./assets/images/projects/residental/11-drive-city/11.webp",
-      "./assets/images/projects/residental/11-drive-city/12.webp",
-      "./assets/images/projects/residental/11-drive-city/13.webp",
-      "./assets/images/projects/residental/11-drive-city/14.webp",
-      "./assets/images/projects/residental/11-drive-city/15.webp",
-      "./assets/images/projects/residental/11-drive-city/16.webp",
-      "./assets/images/projects/residental/11-drive-city/17.webp",
-      "./assets/images/projects/residental/11-drive-city/18.webp",
-      "./assets/images/projects/residental/11-drive-city/19.webp",
-      "./assets/images/projects/residental/11-drive-city/20.webp",
-      "./assets/images/projects/residental/11-drive-city/21.webp",
-      "./assets/images/projects/residental/11-drive-city/22.webp",
-      "./assets/images/projects/residental/11-drive-city/23.webp",
-      "./assets/images/projects/residental/11-drive-city/24.webp",
-      "./assets/images/projects/residental/11-drive-city/25.webp",
-      "./assets/images/projects/residental/11-drive-city/26.webp",
-      "./assets/images/projects/residental/11-drive-city/27.webp",
-      "./assets/images/projects/residental/11-drive-city/28.webp"
+      "./assets/images/projects/residental/12-drive-city/1.webp",
+      "./assets/images/projects/residental/12-drive-city/2.webp",
+      "./assets/images/projects/residental/12-drive-city/3.webp",
+      "./assets/images/projects/residental/12-drive-city/4.webp",
+      "./assets/images/projects/residental/12-drive-city/5.webp",
+      "./assets/images/projects/residental/12-drive-city/6.webp",
+      "./assets/images/projects/residental/12-drive-city/7.webp",
+      "./assets/images/projects/residental/12-drive-city/8.webp",
+      "./assets/images/projects/residental/12-drive-city/9.webp",
+      "./assets/images/projects/residental/12-drive-city/10.webp",
+      "./assets/images/projects/residental/12-drive-city/11.webp",
+      "./assets/images/projects/residental/12-drive-city/12.webp",
+      "./assets/images/projects/residental/12-drive-city/13.webp",
+      "./assets/images/projects/residental/12-drive-city/14.webp",
+      "./assets/images/projects/residental/12-drive-city/15.webp",
+      "./assets/images/projects/residental/12-drive-city/16.webp",
+      "./assets/images/projects/residental/12-drive-city/17.webp",
+      "./assets/images/projects/residental/12-drive-city/18.webp",
+      "./assets/images/projects/residental/12-drive-city/19.webp",
+      "./assets/images/projects/residental/12-drive-city/20.webp",
+      "./assets/images/projects/residental/12-drive-city/21.webp",
+      "./assets/images/projects/residental/12-drive-city/22.webp",
+      "./assets/images/projects/residental/12-drive-city/23.webp",
+      "./assets/images/projects/residental/12-drive-city/24.webp",
+      "./assets/images/projects/residental/12-drive-city/25.webp",
+      "./assets/images/projects/residental/12-drive-city/26.webp",
+      "./assets/images/projects/residental/12-drive-city/27.webp",
+      "./assets/images/projects/residental/12-drive-city/28.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "center-bezpeky",
     "title": "Центр безпеки громадян",
     "image": "./assets/images/projects/public-buildings/11-center-bezpeky/cover.webp",
@@ -970,10 +1000,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "prestige-apartments",
     "title": "Prestige Apartments",
-    "image": "./assets/images/projects/residental/12-prestige-apartments/cover.webp",
+    "image": "./assets/images/projects/residental/13-prestige-apartments/cover.webp",
     "description": "Трактування класичних форм в форматі сучасності дало поштовх створити апартаменти в самому центрі міста. Вигляд 13 поверхів проглядається в міському середовищі чітко. Лаконічність і виваженість форм не дає візуального навантаження. Все вписано гамонійно. Цу місце, де прокидаєшся із задоволенням. Створено єдине ціле з паркінгом, торговими приміщеннями, житлом.",
     "details": [
       "Площа: 12 000 м²",
@@ -983,18 +1013,22 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/12-prestige-apartments/1.webp",
-      "./assets/images/projects/residental/12-prestige-apartments/2.webp",
-      "./assets/images/projects/residental/12-prestige-apartments/3.webp",
-      "./assets/images/projects/residental/12-prestige-apartments/4.webp",
-      "./assets/images/projects/residental/12-prestige-apartments/5.webp",
-      "./assets/images/projects/residental/12-prestige-apartments/6.webp"
+      "./assets/images/projects/residental/13-prestige-apartments/1.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/2.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/3.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/4.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/5.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/6.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/7.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/8.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/9.webp",
+      "./assets/images/projects/residental/13-prestige-apartments/10.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "office-stograd",
     "title": "Офіс Cтоград",
     "image": "./assets/images/projects/public-buildings/12-office-stograd/cover.webp",
@@ -1015,10 +1049,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "samchuk",
     "title": "Житлові будинки по вул. У. Самчука",
-    "image": "./assets/images/projects/residental/13-samchuk/cover.webp",
+    "image": "./assets/images/projects/residental/14-samchuk/cover.webp",
     "description": "Комплекс Уласа Самчука має чотири будинки сімейного типу та всього на чотири поверхи з терасами, це дасть змогу вам відпочивати від метушливого міста, насолоджуватися сімейним затишком та теплом родини. В питаннях екологічності та безпеки будматеріалів не може бути ніяких компромісів - це підтверджується регулярними незалежними експертизами які доступні кожному. Коли набрид одноманітний дизайн, коли хочеться відчути увагу до деталей і оточити себе красою, то це все про житловий комплекс Уласа Самчука.",
     "details": [
       "Площа: 4 500 м²",
@@ -1028,16 +1062,16 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/13-samchuk/1.webp",
-      "./assets/images/projects/residental/13-samchuk/2.webp",
-      "./assets/images/projects/residental/13-samchuk/3.webp",
-      "./assets/images/projects/residental/13-samchuk/4.webp"
+      "./assets/images/projects/residental/14-samchuk/1.webp",
+      "./assets/images/projects/residental/14-samchuk/2.webp",
+      "./assets/images/projects/residental/14-samchuk/3.webp",
+      "./assets/images/projects/residental/14-samchuk/4.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "office-center-beton",
     "title": "Офіс центр \"Beton\"",
     "image": "./assets/images/projects/public-buildings/13-office-center-beton/cover.webp",
@@ -1060,10 +1094,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "schevchenko",
     "title": "Шевченка",
-    "image": "./assets/images/projects/residental/14-schevchenko/cover.webp",
+    "image": "./assets/images/projects/residental/15-schevchenko/cover.webp",
     "description": "Житловий комплекс \"Шевченка\" - це фактично будинок клубного типу. Він розташований у самому центрі міста, його форми та об'єми розрізають навколишнє середовище, а у мешканців будинку є унікальна можливість жити практично в центрі мегаполісу, і в той же час дихати свіжим повітрям, займатися спортом та прогулюватися тінистими алеями!",
     "details": [
       "Площа: 3 800 м²",
@@ -1073,17 +1107,17 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/14-schevchenko/1.webp",
-      "./assets/images/projects/residental/14-schevchenko/2.webp",
-      "./assets/images/projects/residental/14-schevchenko/3.webp",
-      "./assets/images/projects/residental/14-schevchenko/4.webp",
-      "./assets/images/projects/residental/14-schevchenko/5.webp"
+      "./assets/images/projects/residental/15-schevchenko/1.webp",
+      "./assets/images/projects/residental/15-schevchenko/2.webp",
+      "./assets/images/projects/residental/15-schevchenko/3.webp",
+      "./assets/images/projects/residental/15-schevchenko/4.webp",
+      "./assets/images/projects/residental/15-schevchenko/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "archive-lviv",
     "title": "Архів у м. Львів",
     "image": "./assets/images/projects/public-buildings/14-archive-lviv/cover.webp",
@@ -1106,10 +1140,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 40,
+    "id": 41,
     "slug": "simeinyi",
     "title": "Сімейний",
-    "image": "./assets/images/projects/residental/15-simeinyi/cover.webp",
+    "image": "./assets/images/projects/residental/16-simeinyi/cover.webp",
     "description": "Житловий комплекс \"Сімейний\"  - це максимально \"сімейний\" будинок. Зручне планування, великі квартири, панорамні вікна. У пішохідній доступності ТРЦ Екватор, зупинки, ТЦ Метро, ТЦ Епіцентр. Для автомобілістів спроектована закрита наземна автостоянка. Місце розташування житлового комплексу знаходиться в безпосередній близькості до центру міста, але наявність величезної паркової зони дозволяє жити в природній оазі та насолоджуватися свіжим, чистим повітрям та співом птахів!",
     "details": [
       "Площа: 10 415 м²",
@@ -1119,18 +1153,18 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/15-simeinyi/1.webp",
-      "./assets/images/projects/residental/15-simeinyi/2.webp",
-      "./assets/images/projects/residental/15-simeinyi/3.webp",
-      "./assets/images/projects/residental/15-simeinyi/4.webp",
-      "./assets/images/projects/residental/15-simeinyi/5.webp",
-      "./assets/images/projects/residental/15-simeinyi/6.webp"
+      "./assets/images/projects/residental/16-simeinyi/1.webp",
+      "./assets/images/projects/residental/16-simeinyi/2.webp",
+      "./assets/images/projects/residental/16-simeinyi/3.webp",
+      "./assets/images/projects/residental/16-simeinyi/4.webp",
+      "./assets/images/projects/residental/16-simeinyi/5.webp",
+      "./assets/images/projects/residental/16-simeinyi/6.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 41,
+    "id": 42,
     "slug": "parking-renome",
     "title": "Паркінг РЕНОМЕ",
     "image": "./assets/images/projects/public-buildings/15-parking-renome/cover.webp",
@@ -1153,10 +1187,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 42,
+    "id": 43,
     "slug": "kyiv-sky",
     "title": "Kyiv Sky",
-    "image": "./assets/images/projects/residental/16-kyiv-sky/cover.webp",
+    "image": "./assets/images/projects/residental/17-kyiv-sky/cover.webp",
     "description": "Концепт забудови житлового комплексу \"Kyiv Sky\" - це окраса міста. Гарні стримані кольори фасаду плавно поєднуються  навколишнім середовищем. Його архітектура ніжна, стримана, вона ніби огортає тебе і там ти дійсно відчуваєш домашній затишок.",
     "details": [
       "Площа: 16 775 м²",
@@ -1166,18 +1200,18 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/16-kyiv-sky/1.webp",
-      "./assets/images/projects/residental/16-kyiv-sky/2.webp",
-      "./assets/images/projects/residental/16-kyiv-sky/4.webp",
-      "./assets/images/projects/residental/16-kyiv-sky/5.webp",
-      "./assets/images/projects/residental/16-kyiv-sky/6.webp",
-      "./assets/images/projects/residental/16-kyiv-sky/7.webp"
+      "./assets/images/projects/residental/17-kyiv-sky/1.webp",
+      "./assets/images/projects/residental/17-kyiv-sky/2.webp",
+      "./assets/images/projects/residental/17-kyiv-sky/4.webp",
+      "./assets/images/projects/residental/17-kyiv-sky/5.webp",
+      "./assets/images/projects/residental/17-kyiv-sky/6.webp",
+      "./assets/images/projects/residental/17-kyiv-sky/7.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 43,
+    "id": 44,
     "slug": "office-kopernyk",
     "title": "Офісний центр по вул. Коперника",
     "image": "./assets/images/projects/public-buildings/16-office-kopernyk/cover.webp",
@@ -1200,10 +1234,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 44,
+    "id": 45,
     "slug": "mlynivska",
     "title": "Млинівська",
-    "image": "./assets/images/projects/residental/17-mlynivska/cover.webp",
+    "image": "./assets/images/projects/residental/18-mlynivska/cover.webp",
     "description": "Житловий комплекс \"Млинівська\" - це простір сучасних самодостатніх людей. З різноматнітними будинками які височать в небо, уособлюючи силу, динаміку, свободу та незалежність. Квартал розташований в західній частині міста Рівне, на земельній ділянці орієнтовною 4 га. Площа забудови комплесу 0,9 га. Поверховість коливається від 2 до 9 поверхів. На території розташовані: торгівельні та розважальні комплекси, квартал житлової забудови площею понад 35 тис. м², налічує понад 503 квартири, комплекс парковок, паркінгів та індивідуальних гаражів, заклад дошкільної освіти, що забезпечує потреби жителів. Особливість кварталу є реалізація концепції двір без авто. Об'ємно-просторове та планувальне рішення - це сучасна європейська архітектура мінімалізму в поєднанні з функцією та потребою жителя.",
     "details": [
       "Площа: 45 000 м²",
@@ -1213,17 +1247,17 @@
       "Статус: Не реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/17-mlynivska/1.webp",
-      "./assets/images/projects/residental/17-mlynivska/2.webp",
-      "./assets/images/projects/residental/17-mlynivska/3.webp",
-      "./assets/images/projects/residental/17-mlynivska/4.webp",
-      "./assets/images/projects/residental/17-mlynivska/5.webp"
+      "./assets/images/projects/residental/18-mlynivska/1.webp",
+      "./assets/images/projects/residental/18-mlynivska/2.webp",
+      "./assets/images/projects/residental/18-mlynivska/3.webp",
+      "./assets/images/projects/residental/18-mlynivska/4.webp",
+      "./assets/images/projects/residental/18-mlynivska/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 45,
+    "id": 46,
     "slug": "baza-kozlyn",
     "title": "База відпочинку у с. Козлин",
     "image": "./assets/images/projects/public-buildings/17-baza-kozlyn/cover.webp",
@@ -1242,10 +1276,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 46,
+    "id": 47,
     "slug": "dream-town",
     "title": "Dream Town",
-    "image": "./assets/images/projects/residental/18-dream-town/cover.webp",
+    "image": "./assets/images/projects/residental/19-dream-town/cover.webp",
     "description": "Спокійна колористика рішень і функціональна насиченість секцій створює нові можливості житлового простору в місті. Продумані планування, комфортний двір і цілісна структура поєднання житлових, нежитлових приміщень насичує саме цю частину міста. В комплексі наявні паркінг, дитячий навчальний заклад і ряд нових рішень благоустрою. Місце затишку і мрій.",
     "details": [
       "Площа: 68 744 м²",
@@ -1255,24 +1289,24 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/18-dream-town/1.webp",
-      "./assets/images/projects/residental/18-dream-town/2.webp",
-      "./assets/images/projects/residental/18-dream-town/3.webp",
-      "./assets/images/projects/residental/18-dream-town/4.webp",
-      "./assets/images/projects/residental/18-dream-town/5.webp",
-      "./assets/images/projects/residental/18-dream-town/6.webp",
-      "./assets/images/projects/residental/18-dream-town/7.webp",
-      "./assets/images/projects/residental/18-dream-town/8.webp",
-      "./assets/images/projects/residental/18-dream-town/9.webp",
-      "./assets/images/projects/residental/18-dream-town/10.webp",
-      "./assets/images/projects/residental/18-dream-town/11.webp",
-      "./assets/images/projects/residental/18-dream-town/12.webp"
+      "./assets/images/projects/residental/19-dream-town/1.webp",
+      "./assets/images/projects/residental/19-dream-town/2.webp",
+      "./assets/images/projects/residental/19-dream-town/3.webp",
+      "./assets/images/projects/residental/19-dream-town/4.webp",
+      "./assets/images/projects/residental/19-dream-town/5.webp",
+      "./assets/images/projects/residental/19-dream-town/6.webp",
+      "./assets/images/projects/residental/19-dream-town/7.webp",
+      "./assets/images/projects/residental/19-dream-town/8.webp",
+      "./assets/images/projects/residental/19-dream-town/9.webp",
+      "./assets/images/projects/residental/19-dream-town/10.webp",
+      "./assets/images/projects/residental/19-dream-town/11.webp",
+      "./assets/images/projects/residental/19-dream-town/12.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 47,
+    "id": 48,
     "slug": "commercial-kulyka",
     "title": "Комерція по вул. Кулика і Гудачека",
     "image": "./assets/images/projects/public-buildings/18-commercial-kulyka/cover.webp",
@@ -1299,10 +1333,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 48,
+    "id": 49,
     "slug": "family-city",
     "title": "Family City",
-    "image": "./assets/images/projects/residental/19-family-city/cover.webp",
+    "image": "./assets/images/projects/residental/20-family-city/cover.webp",
     "description": "Сучасна, але класична архітектура, ергономічні планування квартир, закрита територія під охороною, панорамні вікновиди та автономне опалення газовим котлом, сучасні дитячі та спортивні майданчики. Одним словом - комфортний простір для проживання сім'ї. Назва кварталу йде саме від цього, \"Family City\" - \"сімейне місто\". Це як місто в місті, але нове і комфортне.",
     "details": [
       "Площа: 53 986 м²",
@@ -1312,25 +1346,25 @@
       "Статус: В процесі реалізації"
     ],
     "gallery": [
-      "./assets/images/projects/residental/19-family-city/1.webp",
-      "./assets/images/projects/residental/19-family-city/2.webp",
-      "./assets/images/projects/residental/19-family-city/3.webp",
-      "./assets/images/projects/residental/19-family-city/4.webp",
-      "./assets/images/projects/residental/19-family-city/5.webp",
-      "./assets/images/projects/residental/19-family-city/6.webp",
-      "./assets/images/projects/residental/19-family-city/7.webp",
-      "./assets/images/projects/residental/19-family-city/8.webp",
-      "./assets/images/projects/residental/19-family-city/9.webp",
-      "./assets/images/projects/residental/19-family-city/10.webp",
-      "./assets/images/projects/residental/19-family-city/11.webp",
-      "./assets/images/projects/residental/19-family-city/12.webp",
-      "./assets/images/projects/residental/19-family-city/13.webp"
+      "./assets/images/projects/residental/20-family-city/1.webp",
+      "./assets/images/projects/residental/20-family-city/2.webp",
+      "./assets/images/projects/residental/20-family-city/3.webp",
+      "./assets/images/projects/residental/20-family-city/4.webp",
+      "./assets/images/projects/residental/20-family-city/5.webp",
+      "./assets/images/projects/residental/20-family-city/6.webp",
+      "./assets/images/projects/residental/20-family-city/7.webp",
+      "./assets/images/projects/residental/20-family-city/8.webp",
+      "./assets/images/projects/residental/20-family-city/9.webp",
+      "./assets/images/projects/residental/20-family-city/10.webp",
+      "./assets/images/projects/residental/20-family-city/11.webp",
+      "./assets/images/projects/residental/20-family-city/12.webp",
+      "./assets/images/projects/residental/20-family-city/13.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 49,
+    "id": 50,
     "slug": "restaurant-okolytsia",
     "title": "Ресторан \"Околиця\"",
     "image": "./assets/images/projects/public-buildings/19-restaurant-okolytsia/cover.webp",
@@ -1349,10 +1383,10 @@
     "categoryNames": ["Громадські будівлі"]
   },
   {
-    "id": 50,
+    "id": 51,
     "slug": "tarasove",
     "title": "Тарасове",
-    "image": "./assets/images/projects/residental/20-tarasove/cover.webp",
+    "image": "./assets/images/projects/residental/21-tarasove/cover.webp",
     "description": "Онсовним завданням у житлового комплексу \"Тарасове\" було єднання людини з природою. 4-х поверховий житловий комплекс, що розташований в безпосередній близькості до міста Луцьк, покликаний забезпечити комфорт, затишок та тепло заміського будинку в поєєднанні з перевагами життя в місті. Особливістю проекту є: двори без машин, відсутність загазованості міського середовища, сучасна європейська архітектура.",
     "details": [
       "Площа: 12 488 м²",
@@ -1362,24 +1396,24 @@
       "Статус: Не реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/20-tarasove/1.webp",
-      "./assets/images/projects/residental/20-tarasove/2.webp",
-      "./assets/images/projects/residental/20-tarasove/3.webp",
-      "./assets/images/projects/residental/20-tarasove/4.webp",
-      "./assets/images/projects/residental/20-tarasove/5.webp",
-      "./assets/images/projects/residental/20-tarasove/6.webp",
-      "./assets/images/projects/residental/20-tarasove/7.webp",
-      "./assets/images/projects/residental/20-tarasove/8.webp",
-      "./assets/images/projects/residental/20-tarasove/9.webp"
+      "./assets/images/projects/residental/21-tarasove/1.webp",
+      "./assets/images/projects/residental/21-tarasove/2.webp",
+      "./assets/images/projects/residental/21-tarasove/3.webp",
+      "./assets/images/projects/residental/21-tarasove/4.webp",
+      "./assets/images/projects/residental/21-tarasove/5.webp",
+      "./assets/images/projects/residental/21-tarasove/6.webp",
+      "./assets/images/projects/residental/21-tarasove/7.webp",
+      "./assets/images/projects/residental/21-tarasove/8.webp",
+      "./assets/images/projects/residental/21-tarasove/9.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 51,
+    "id": 52,
     "slug": "green-ville",
     "title": "Green Ville",
-    "image": "./assets/images/projects/residental/21-green-ville/cover.webp",
+    "image": "./assets/images/projects/residental/22-green-ville/cover.webp",
     "description": "\"Green Ville\" - це котеджне містечко, яке знаходиться у місті Рівне. Кожен будиночок заворожує своєю архітектурою, величезні балкони, тераси, великі планування кімнат, дитячі майданчики, безпечні вулички... Переваги цього району нескінченні. Дерево, бетон та скло - соь головний мотив забудов, а великі зелені насадження ніби огортають кожен будиночок.",
     "details": [
       "Площа: 4 320 м²",
@@ -1389,20 +1423,20 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/21-green-ville/1.webp",
-      "./assets/images/projects/residental/21-green-ville/2.webp",
-      "./assets/images/projects/residental/21-green-ville/3.webp",
-      "./assets/images/projects/residental/21-green-ville/4.webp",
-      "./assets/images/projects/residental/21-green-ville/5.webp"
+      "./assets/images/projects/residental/22-green-ville/1.webp",
+      "./assets/images/projects/residental/22-green-ville/2.webp",
+      "./assets/images/projects/residental/22-green-ville/3.webp",
+      "./assets/images/projects/residental/22-green-ville/4.webp",
+      "./assets/images/projects/residental/22-green-ville/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 52,
+    "id": 53,
     "slug": "hill-house",
     "title": "Hill House",
-    "image": "./assets/images/projects/residental/22-hill-house/cover.webp",
+    "image": "./assets/images/projects/residental/23-hill-house/cover.webp",
     "description": "Житловий комплекс \"Hill House\" - це дім, в якому хочеться жити та творити майбутнє, де відчуваєш себе в безпеці і спокійний за тих кого любиш. Дім де хочеться розмальовувати власне життя яскравими фарбами. Цілий світ навколо твоєї оселі: захопливий і різноманітний. Будинок має планування на будь-який смак, однокімнатні, двокімнатні та трикімнатні квартири.",
     "details": [
       "Площа: 2 700 м²",
@@ -1412,20 +1446,20 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/22-hill-house/1.webp",
-      "./assets/images/projects/residental/22-hill-house/2.webp",
-      "./assets/images/projects/residental/22-hill-house/3.webp",
-      "./assets/images/projects/residental/22-hill-house/4.webp",
-      "./assets/images/projects/residental/22-hill-house/5.webp"
+      "./assets/images/projects/residental/23-hill-house/1.webp",
+      "./assets/images/projects/residental/23-hill-house/2.webp",
+      "./assets/images/projects/residental/23-hill-house/3.webp",
+      "./assets/images/projects/residental/23-hill-house/4.webp",
+      "./assets/images/projects/residental/23-hill-house/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 53,
+    "id": 54,
     "slug": "gruschevskii",
     "title": "Житловий будинок на вул. Грушевського",
-    "image": "./assets/images/projects/residental/23-gruschevskii/cover.webp",
+    "image": "./assets/images/projects/residental/24-gruschevskii/cover.webp",
     "description": "Триповерховий житловий будинок розташований у дуже зручному місці, з хорошою транспортною розв'язкою та інфраструктурою. Поруч зупинки, магазини, школи, парки та бізнес центри.",
     "details": [
       "Площа: 1 800 м²",
@@ -1435,20 +1469,20 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/23-gruschevskii/1.webp",
-      "./assets/images/projects/residental/23-gruschevskii/2.webp",
-      "./assets/images/projects/residental/23-gruschevskii/3.webp",
-      "./assets/images/projects/residental/23-gruschevskii/4.webp",
-      "./assets/images/projects/residental/23-gruschevskii/5.webp"
+      "./assets/images/projects/residental/24-gruschevskii/1.webp",
+      "./assets/images/projects/residental/24-gruschevskii/2.webp",
+      "./assets/images/projects/residental/24-gruschevskii/3.webp",
+      "./assets/images/projects/residental/24-gruschevskii/4.webp",
+      "./assets/images/projects/residental/24-gruschevskii/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 54,
+    "id": 55,
     "slug": "sunny-town",
     "title": "Sunny Town",
-    "image": "./assets/images/projects/residental/24-sunny-town/cover.webp",
+    "image": "./assets/images/projects/residental/25-sunny-town/cover.webp",
     "description": "Мрієте про власне житло? Тоді житловий комплекс \"Sunny Town\" дає вам великий вибір різноманітних квартир з плануванням на будь-який смак. Там на вас не будуть \"давити\" хмарочоси, ви зможете набрати повні легені свіжого повітря, прислухатися до сміху дітей та щебету птахів - це відчуття нового формату життя. Варто відмітити чудову транспортну розв'язку, яка дозволяє досить швидко дістатися до центру міста.",
     "details": [
       "Площа: 30 000 м²",
@@ -1458,20 +1492,20 @@
       "Статус: Реалізовано"
     ],
     "gallery": [
-      "./assets/images/projects/residental/24-sunny-town/1.webp",
-      "./assets/images/projects/residental/24-sunny-town/2.webp",
-      "./assets/images/projects/residental/24-sunny-town/3.webp",
-      "./assets/images/projects/residental/24-sunny-town/4.webp",
-      "./assets/images/projects/residental/24-sunny-town/5.webp"
+      "./assets/images/projects/residental/25-sunny-town/1.webp",
+      "./assets/images/projects/residental/25-sunny-town/2.webp",
+      "./assets/images/projects/residental/25-sunny-town/3.webp",
+      "./assets/images/projects/residental/25-sunny-town/4.webp",
+      "./assets/images/projects/residental/25-sunny-town/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
   },
   {
-    "id": 55,
+    "id": 56,
     "slug": "vidrodzhennya",
     "title": "Відродження",
-    "image": "./assets/images/projects/residental/25-vidrodzhennya/cover.webp",
+    "image": "./assets/images/projects/residental/26-vidrodzhennya/cover.webp",
     "description": "У житловому комплексі \"Відродження\" передбачено багатоповерхову житлову забудову з інфраструктурними об'єктами та підземним паркінгом. Особливістю комплексу є об'ємно-просторове рішення, зокрема динаміка екстер'єру що поєднується з функціональними планувальними рішеннями. Комфорт не обмежується стінами квартири. Він - у кожному метрі простору, що вас оточує: від зовнішнього архітектурного стилю - до внутрішніх функціональних рішень.",
     "details": [
       "Площа: 12 000 м²",
@@ -1481,13 +1515,59 @@
       "Статус: Концепція"
     ],
     "gallery": [
-      "./assets/images/projects/residental/25-vidrodzhennya/1.webp",
-      "./assets/images/projects/residental/25-vidrodzhennya/2.webp",
-      "./assets/images/projects/residental/25-vidrodzhennya/3.webp",
-      "./assets/images/projects/residental/25-vidrodzhennya/4.webp",
-      "./assets/images/projects/residental/25-vidrodzhennya/5.webp"
+      "./assets/images/projects/residental/26-vidrodzhennya/1.webp",
+      "./assets/images/projects/residental/26-vidrodzhennya/2.webp",
+      "./assets/images/projects/residental/26-vidrodzhennya/3.webp",
+      "./assets/images/projects/residental/26-vidrodzhennya/4.webp",
+      "./assets/images/projects/residental/26-vidrodzhennya/5.webp"
     ],
     "categories": ["residential_complexes"],
     "categoryNames": ["Житлові комплекси"]
+  },
+  {
+    "id": 57,
+    "slug": "elevator-schpakiv",
+    "title": "Елеватор у с. Шпаків",
+    "image": "./assets/images/projects/industrial/3-elevator-schpakiv/cover.webp",
+    "description": "Проектом передбачено будівництво відділення приймання, очищення, сушіння, зберігання та відвантаження зерна у с.Малий Шпаків, Рівненська область.<br><br>В складі комплексу розроблено об'ємно-планувальні і конструктивні рішення таких споруд:<br>• завальної ями з норійною етажеркою №1;<br>• зерносушарки;<br>• вузол завантаження у автомобілі;<br>• підземний тонель;<br>• норійна етажерка №2; <br>• зерноочисного відділення;<br>• транспортна галерея;<br>• операторська;<br>• буферний силос;<br>• силос для постійного зберігання",
+    "details": [
+      "Площа: 513 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: 2020",
+      "Локація: с. Малий Шпаків, Рівненська область",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/industrial/3-elevator-schpakiv/1.webp",
+      "./assets/images/projects/industrial/3-elevator-schpakiv/2.webp",
+      "./assets/images/projects/industrial/3-elevator-schpakiv/3.webp"
+    ],
+    "categories": ["industrial"],
+    "categoryNames": ["Промислове будівництво"]
+  },
+  {
+    "id": 58,
+    "slug": "elevator-zdolbuniv",
+    "title": "Елеватор у м. Здолбунів",
+    "image": "./assets/images/projects/industrial/4-elevator-zdolbuniv/cover.webp",
+    "description": "Проектом передбачено будівництво відділення приймання, очищення, сушіння, зберігання та відвантаження зерна у місті Здолбунів, Рівненської області.<br><br>В складі силосного зерносховища розроблено об'ємно-планувальні і конструктивні рішення таких споруд:<br> • фундаменти під обладнання;<br>• система завантаження у залізничний транспорт;<br>• фундаменти і металеві конструкції укриття завальної ями;<br>• тонелі;<br>• норійні приямки;<br>• норійні етажерки;<br>• транспортна галерея;<br>• операторська;<br>• лабораторія;<br>• робочі вежі;<br>• сушки;<br>• ваговий комплекс;<br>• оперативні ємності;",
+    "details": [
+      "Площа: 1 957 м²",
+      "Рік проектування: 2019",
+      "Рік реалізації: 2020",
+      "Локація: м. Здолбунів, Рівненська область",
+      "Статус: Реалізовано"
+    ],
+    "gallery": [
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/1.webp",
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/2.webp",
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/3.webp",
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/4.webp",
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/5.webp",
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/6.webp",
+      "./assets/images/projects/industrial/4-elevator-zdolbuniv/7.webp"
+    ],
+    "categories": ["industrial"],
+    "categoryNames": ["Промислове будівництво"]
   }
 ]
